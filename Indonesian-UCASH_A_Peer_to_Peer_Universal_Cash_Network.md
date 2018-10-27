@@ -6,7 +6,8 @@ permalink: /indonesian--u·cash:-a-peer-to-peer-universal-cash-network.docx/
 source-id: 16w3ehjQFWng8Bw_5EPXG5A8jHGC4Tw_C7D-GqNf6aTE
 published: true
 ---
-MEMPERKENALKAN RENCANA U.CASH UNTUK LAYANAN KEUANGAN GLOBAL P2P 
+MEMPERKENALKAN RENCANA U.CASH UNTUK LAYANAN KEUANGAN 
+GLOBAL P2P 
 
  
 
@@ -34,7 +35,8 @@ Dengan menggunakan pengalaman dan data dunia nyata, didukung oleh konsultasi dan
 
 [[TOC]]
 
-**1.	Misi U.CASH**
+**1.	Misi U.CASH
+**
 
 Kami sedang membangun jaringan layanan keuangan terdistribusi global yang didukung oleh teknologi blockchain. Dengan mayoritas populasi global adalah "*over-banked*", "*under-banked*" atau "*unbanked*", U.CASH menawarkan kepada siapa saja yang memiliki koneksi internet sebagai alternatif dari lembaga keuangan terpusat tradisional seperti bank dan credit unions. Kami *unbanking* dunia. Pengguna yang tidak berkepentingan yang tinggal di mana pun di dunia dapat mengakses U.CASH menggunakan jaringan pengubah aset digital kami dan mendapatkan akses cepat ke layanan keuangan berbasis blockchain dan tradisional. Layanan yang sebelumnya hanya tersedia di negara maju dan berkembang dengan infrastruktur perbankan dan keuangan tradisional sekarang dapat diakses oleh siapa saja di mana pun dengan perangkat komputasi dan koneksi internet.
 
@@ -44,7 +46,8 @@ Makalah ini menguraikan bagaimana U.CASH bekerja, apa tujuan kita, dan bagaimana
 
 **2.	Visi Ekosistem Keuangan Global**
 
-****Akses yang aman dan efisien ke sistem keuangan di seluruh dunia merupakan fondasi bagi ekonomi digital masa depan yang berfungsi dengan baik. Jasa keuangan akan menjadi mudah diakses dan di mana pun seperti e-mail dan media sosial. Tingkat kepercayaan pengguna yang tinggi memiliki sistem keuangan P2P masa depan dan efisiensi sistem tersebut untuk mengedarkan nilai secara aman sambil memenuhi kebutuhan sehari-hari, akan berkontribusi pada ketahanan ekonomi global serta jaringan U.CASH. Karena pengemudi eksternal memberikan tekanan tambahan pada sistem, ada kebutuhan kritis agar sistem merespons dan berkembang dengan tepat. Ekosistem keuangan global sejati harus mempertimbangkan berbagai macam layanan pengguna, persyaratan mata uang/aset dan cukup diperluas untuk terhubung dengan beberapa teknologi, aplikasi dan penyedia layanan independen sehingga dapat memenuhi tuntutan jaringannya.
+**
+**Akses yang aman dan efisien ke sistem keuangan di seluruh dunia merupakan fondasi bagi ekonomi digital masa depan yang berfungsi dengan baik. Jasa keuangan akan menjadi mudah diakses dan di mana pun seperti e-mail dan media sosial. Tingkat kepercayaan pengguna yang tinggi memiliki sistem keuangan P2P masa depan dan efisiensi sistem tersebut untuk mengedarkan nilai secara aman sambil memenuhi kebutuhan sehari-hari, akan berkontribusi pada ketahanan ekonomi global serta jaringan U.CASH. Karena pengemudi eksternal memberikan tekanan tambahan pada sistem, ada kebutuhan kritis agar sistem merespons dan berkembang dengan tepat. Ekosistem keuangan global sejati harus mempertimbangkan berbagai macam layanan pengguna, persyaratan mata uang/aset dan cukup diperluas untuk terhubung dengan beberapa teknologi, aplikasi dan penyedia layanan independen sehingga dapat memenuhi tuntutan jaringannya.
 
 Sistem keuangan dimaksudkan untuk menjadi dinamis dan proaktif sehubungan dengan persyaratan yang terus berkembang dari penggunanya dalam ekonomi yang lebih luas. Sebagai jaringan yang bersifat fiat, uang tunai dan mata uang digital agnostik, U.CASH memungkinkan penggunanya memuat dan berinteraksi dengan mata uang atau aset yang didukung pilihan mereka. Bahan bakar jaringan asli, U.CASH, digunakan untuk penyelesaian antara pengguna dan transmisi data, dan memungkinkan kontrak lanjutan terdistribusi antara penerima, pengirim, pengguna dan konverter. Mayoritas U.CASH akan didistribusikan menggunakan model Initial Bounty Offering (IBO) yang meningkatkan kemampuan pengguna di mana pun di dunia untuk bergabung dalam jaringan dan berkontribusi terhadap pertumbuhannya. Model distribusi ini dijelaskan secara lebih rinci dalam laporan resmi yang menyertainya "Penawaran Bounty Awal (Initial Bounty Offerings/IBOs): Kerangka untuk Membangun Organisasi yang Diaktifkan Blockchain".
 
@@ -238,7 +241,8 @@ U.CASH Inc. adalah yang pertama di antara ekosistem bisnis yang membangun fondas
 
 **11. 	Pemain Utama**
 
-Karena kebutuhan berbagai pihak untuk memastikan keberhasilan jaringan U.CASH, kami telah mengembangkan sebuah sistem yang memberi insentif dan mendorong semua pihak untuk bekerja sama untuk menguntungkan semua pihak yang terlibat. Kami menguraikan tanggung jawab dan penghargaan masing-masing jenis "pemain" di jaringan kami adalah rahasia dan bagaimana mereka sesuai dengan visi yang lebih besar.
+
+Karena kebutuhan berbagai pihak untuk memastikan keberhasilan jaringan U.CASH, kami telah mengembangkan sebuah sistem yang memberi insentif dan mendorong semua pihak untuk bekerja sama untuk menguntungkan semua pihak yang terlibat. Kami menguraikan tanggung jawab dan penghargaan masing-masing jenis "pemain" di jaringan kami adalah rahasia dan bagaimana mereka sesuai dengan visi yang lebih besar.
 
 **11.1****	****Tim U.CASH  **
 
