@@ -1,7 +1,7 @@
 ---
 title: English- U·CASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
-author: ucash
+author: ucash community
 permalink: /english--u·cash:-peer-to-peer-universal-cash-network/
 source-id: 1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M
 published: true
