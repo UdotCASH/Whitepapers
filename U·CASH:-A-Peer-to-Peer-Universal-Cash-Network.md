@@ -1,5 +1,5 @@
 ---
-title: U·CASH: Peer-to-Peer Universal Cash Network (English Version)
+title: U·CASH: A Peer-to-Peer Universal Cash Network (English Version)
 layout: whitepaper
 author: ucash
 permalink: /u·cash:-a-peer-to-peer-universal-cash-network/
