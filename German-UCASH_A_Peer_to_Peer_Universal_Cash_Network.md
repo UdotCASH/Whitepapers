@@ -8,15 +8,13 @@ published: true
 ---
 EINFÜHRUNG IN U.CASH'S PLAN FÜR GLOBALE P2P-FINANZ-DIENSTLEISTUNGEN
 
-**_Website - _****_http://u.cash_**
+**Website - _http://u.cash_**
 
 **U.CASH: A Peer-to-Peer Global Financial Services Network**
 
-[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
-
 UCASH: Ein Peer-to-Peer-Netzwerk für globale Finanzdienstleistungen
 
-http://u.cash - info@u.cash
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **Zusammenfassung**. Traditionelles Banking wird obsolet. Alte Geschäftsmodelle werden durch Peer-to-Peer-Sharing-Economies ersetzt, welche Endnutzer und einzelne Dienstleister stärken. Blockchain-Innovationen, die ursprünglich von Bitcoin eingeführt wurden, ermöglichen es der Technologie, die Rolle traditioneller zentralisierter Einheiten zu übernehmen und die internen Prozesse von Banken und anderen Finanzintermediären in Software-Code umzuwandeln, der für alle zugänglich ist. Markentreue und lebenslange Kunden wenden sich dank hochverfügbarer digitaler Blockchain-Technologie-Tools der finanziellen Selbstbestimmung zu. Die Benutzer wenden sich an globale Dienste, welche ihnen einen nahtlosen Zugang zu Diensten unabhängig von ihrem "finanziellen Status" in der Welt ermöglichen, ohne die Schwierigkeiten und die Unzugänglichkeit traditioneller Institutionen. Wir nennen diese Massenänderung das "globale Unbanking" und U.CASH ist der Katalysator für diesen Prozess aufgrund seines Geschäftsmodells, seiner technologischen Ebene und seiner einzigartigen Vision, Finanzdienstleistungen allen zugänglich zu machen.
 
