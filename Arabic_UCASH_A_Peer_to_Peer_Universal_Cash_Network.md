@@ -282,7 +282,8 @@ Daniel Houseley | المالية والعمليات
 
 Shyaam Sundhar | التكنولوجيا والحماية
 
-Amber D. Scott | الامتثال والتشريعات  Marlon Neil | مؤسسات الخدمات المالية و التجزئة
+Amber D. Scott | الامتثال والتشريعات 
+ Marlon Neil | مؤسسات الخدمات المالية و التجزئة
 
 Chami Akmeemana | التقنيات المالية و البلوكتشين 
 
