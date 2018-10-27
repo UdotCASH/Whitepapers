@@ -2,7 +2,7 @@
 title: Dutch - UCASH Whitepaper
 layout: whitepaper
 author: ucash community
-permalink: /dutch--ucash-whitepaper-/
+permalink: /dutch-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1zoxECmxVaP6_VKz9o9-6Oy-RGMCs-YQtrEkU-0WSdGc
 published: true
 ---
