@@ -454,7 +454,8 @@ Daniel Houseley | Finance & Operations
 
 Shyaam Sundhar | Security & Technology
 
-Amber D. Scott | Compliance & RegulatoryMarlon Neil | MSB & Retail
+Amber D. Scott | Compliance & Regulatory
+Marlon Neil | MSB & Retail
 
 Chami Akmeemana | Fintech & Blockchain
 
