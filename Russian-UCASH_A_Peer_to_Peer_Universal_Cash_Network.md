@@ -1,8 +1,8 @@
 ---
-title: Russian - U·CASH: A Peer-to-Peer Universal Cash Network.docx
+title: Russian - UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /russian--u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /russian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1tgCZN7F7VUYYq-gA8ZbOJd_lYXBrUvaejBDiY65k3m8
 published: true
 ---

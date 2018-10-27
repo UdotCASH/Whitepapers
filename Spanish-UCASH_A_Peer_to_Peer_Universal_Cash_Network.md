@@ -1,8 +1,8 @@
 ---
-title: Spanish - U·CASH: A Peer-to-Peer Universal Cash Network.docx
+title: Spanish - UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /spanish--u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /spanish-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1YmViZKRl6ZvlpBjvmNweLDCws32UEz6SF9pcEvWdKdA
 published: true
 ---
@@ -20,7 +20,7 @@ PRESENTANDO EL PLAN DE U.CASH PARA SERVICIOS FINANCIEROS GLOBALES P2P
 
 **U****·****CASH: Una red global de servicios financieros entre iguales **
 
-*[http://u.cas*h](http://www.u.cash/)* - info@u.cash*
+*[http://u.cash](http://www.u.cash/)* - info@u.cash*
 
 **Resumen**. Los servicios financieros tradicionales se están volviendo obsoletos. Los viejos modelos para hacer negocios están siendo remplazados por economías de intercambio entre iguales, fortaleciendo a los usuarios finales y a los proveedores individuales de servicios. Las innovaciones de la cadena articulada o de bloques, conocida como *blockchain*, que fue introducida inicialmente [por Bitcoin](https://bitcoin.org/bitcoin.pdf), está permitiendo que la tecnología juegue el rol de las entidades tradicionalmente centralizadas, transfigurando los procesos internos del ecosistema financiero y de los intermediarios financieros, en un código software accesible por todos. La lealtad hacia la marca y los clientes de por vida, se está cambiando por la autonomía financiera a través de herramientas digitales ampliamente disponibles, todo por cortesía de las tecnologías de *blockchain*.  Los usuarios están recurriendo a las plataformas y aplicaciones globales que les brindan un acceso continuo a los servicios, independientemente de su "estado financiero" en el mundo y sin las molestias e inaccesibilidad de las instituciones tradicionales. A este cambio masivo lo llamamos "desbancarización global" y U.CASH es el catalizador de este proceso en virtud de su modelo de negocio, su capacidad tecnológica y de su propuesta de valor única para permitir el acceso a todas las personas a los servicios financieros.  
 

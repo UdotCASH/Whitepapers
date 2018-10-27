@@ -1,5 +1,5 @@
 ---
-title: Sundanese - U·CASH: A Peer-to-Peer Universal Cash Network.doc
+title: Sundanese - UCASH: A Peer-to-Peer Universal Cash Network.doc
 layout: whitepaper
 author: ucash community
 permalink: /sundanese--u·cash:-a-peer-to-peer-universal-cash-network.doc/

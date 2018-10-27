@@ -1,21 +1,21 @@
 ---
-title: Portuguese Brazilian - U·CASH: A Peer-to-Peer Universal Cash Network.docx
+title: Portuguese Brazilian - UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /portuguese-brazilian--u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /portuguese_brazilian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1YmViZKRl6ZvlpBjvmNweLDCws32UEz6SF9pcEvWdKdA
 published: true
 ---
 INTRODUZINDO O PLANO U.CASH PARA SERVIÇOS FINANCEIROS GLOBAIS P2P
- 
 
- 
 
- 
 
- 
 
-  
+
+
+
+
+
 
 **_Website - _****_http://u.cash_**
 
@@ -167,7 +167,7 @@ O requisito de determinadas funcionalidades, como a transação "tributação" d
 U.CASH irá integrar outras cadeias de blocos criando um número de tokens fixo para cada cadeia de blocos representada. O fornecimento total de tokens fixos criados, em todas as cadeias de bloqueios, será igual ao fornecimento de token criado a partir do IBO (veja a Seção 9: IBO - Oferta inicial de recompensas) através de um mecanismo de encadernação 1:1. Por exemplo, se 1 bilhão UCASH é oferecido durante o IBO, então, apenas 1 bilhão UCASH está disponível para ser usado em todas as cadeias de bloqueio integradas, em qualquer momento. Nós asseguramos isso trocando um token de rede de cadeias de blocos para outro em qualquer momento através da plataforma U.CASH, efetivamente reequilibrando o fornecimento de token para mantê-lo consistente. Durante o reequilíbrio, nosso software determina automaticamente a cadeia de blocos que oferece a maioria das vantagens ao mesmo tempo e instala instantaneamente a transação em segundo plano. Ele reconhecerá as transações em que as capacidades oferecidas por uma cadeia de blocos têm vantagens sobre as demais, vantagens como taxas mais baixas, contratação inteligente efetiva, liquidez e muito mais. Do ponto de vista do usuário, tudo o que eles sabem é que eles receberam a melhor taxa, a liquidação mais rápida e o acesso aos recursos mais vantajosos disponíveis naquele momento. Como resultado, o token UCASH aumentará em valor à medida que sua demanda aumentar pela a sua utilidade em acessar facilmente uma variedade de cadeias de blocos. Ser blockchain agnóstico e inclusivo permite que o ecossistema U.CASH seja independente de qualquer implementação de blockchain e também permite que todos eles sejam acessados e usados sempre que benéficos ou requerido por seus usuários. Também durante o período IBO, para cada 500.000.000 UCASH que são distribuído, o valor dos próximos 500.000.000 UCASH aumentará, dando assim aos participantes anteriores um incentivo para se envolver e terminar as recompensas antes.
 
 
-6. Plano de Inclusão U.CASH Blockchain 
+6. Plano de Inclusão U.CASH Blockchain
 
 
 Como uma rede especializada que utiliza todas as redes de cadeias de blocos aptas, inicialmente construídas para imitar funções de um intermediário de serviços financeiros (como um banco), a U.CASH possui requisitos gerais de casos de uso já desenvolvidos e implantados em algumas cadeias de blocos, mas também precisam criar novas funcionalidades para si. Depois de pesquisar e testar dezenas de implementações de blocos, códigos fonte e ideias, reduzimos nossos requisitos para os fundamentos específicos necessários para construir um ecossistema robusto, economicamente sólido, seguro e próspero em torno das ofertas deserviços que a rede U.CASH oferece.
@@ -205,7 +205,7 @@ Processos e cadeias de valor em serviços financeiros geralmente abrangem difere
 
 Ao adotar padrões ISO 20022 para mensagens de transação, internamente e externamente, a U.CASH pode conectar-se ao ecossistema financeiro existente quando e quando necessário, e configura a plataforma U.CASH para futura interoperabilidade envolvendo recursos avançados.
 
-7. Serviços U.CASH 
+7. Serviços U.CASH
 
 
 O software U.CASH permite que provedores e parceiros externos se conectem ao nosso sistema para oferecer seus serviços na plataforma. Usando qualquer dispositivo informático conectado à Internet, os conversores podem fornecer serviços em seus locais físicos ou pessoalmente, e os usuários finais podem acessar e gerenciar sua conta em qualquer lugar a qualquer momento. Isso permite que U.CASH ofereça serviços financeiros tradicionais, tais como empréstimos, remessas e pagamentos de contas, mas também permite que novos serviços também sejam oferecidos.
@@ -292,7 +292,7 @@ U.CASH tem o objetivo de suportar quase todas as moedas fiduciárias (fiat), moe
 
 A distribuição do token UCASH será realizada usando um novo modelo inovador. Os usuários podem adquirir tokens completando recompensas estabelecidas pela U.CASH para construir a rede. U.CASH escolhe os vários vencedores das recompensas (quando aplicável) e administra a distribuição das recompensas. Planejamos mover a tomada de decisão para um modelo pelo qual o feedback pode ser feito por usuários da plataforma e por titulares da UCASH. Construir um sistema para gerenciar isso será uma das muitas recompensas desse tipo. Os benfeitores são indivíduos, empresas e outras organizações que podem adquirir recompensas diretamente e, posteriormente, gerenciar a U.CASH e completar essa recompensa usando seus próprios recursos.
 
-Alem desta, uma outra distribuição menor será concedida aos fundadores e equipe de lançamento inicial por todo o trabalho e esforços para manter a missão U.CASH até agora. Esta distribuição será feita por um longo período de 3 anos para incentivar os esforços contínuos. 
+Alem desta, uma outra distribuição menor será concedida aos fundadores e equipe de lançamento inicial por todo o trabalho e esforços para manter a missão U.CASH até agora. Esta distribuição será feita por um longo período de 3 anos para incentivar os esforços contínuos.
 Os usuários que se registrarem e verificarem seus e-mails e números móveis poderão reivindicar recompensas, além de adquirir uma quantidade limitada de UCASH adicionalmente, usando BTC ou ETH. Isso estará disponível até o máximo de recompensas de prêmios bônus oferecidas por estágio, no período inicial de oferta de recompensa.
 
 9.1 Períodos e estágios da IBO
@@ -347,9 +347,9 @@ William Mougayar | Blockchain & Negócios
 Manie Eagar | Tecnologia financeira
 Dr. Jane Thomason | Política social global
 Loretta Joseph | Mercados financeiros e bancos
-Daniel Houseley | Finanças e Operações 
-Shyaam Sundhar | Segurança e tecnologia 
-Amber D. Scott | Conformidade e regulamentação 
+Daniel Houseley | Finanças e Operações
+Shyaam Sundhar | Segurança e tecnologia
+Amber D. Scott | Conformidade e regulamentação
 Marlon Neil | MSB & Retail
 
 Chami Akmeemana | Fintech & Blockchain
@@ -388,7 +388,7 @@ Mais a ser anunciado incluindo muitos outros apoiadores, membros da equipe e par
 
 No lançamento da rede U.CASH, ofereceremos serviços com um conjunto limitado de provedores parceiros. Eles permitirão o acesso a pagamentos de contas, recarga de celular, cartão de débito e virtual Visa, bem como outros serviços para nossos usuários finais e conversores. Os futuros fornecedores parceiros serão ativados para oferecer funcionalidades e serviços adicionais em suas regiões locais. Estes incluem processadores de pagamento, serviços de remessa, serviços de pagamento de contas, empresas de telecomunicações, instituições financeiras, empresas de serviços monetários, provedores de empréstimo, trocas de câmbio digital, provedores de recarga celular, portais de comércio eletrônico, sistemas de ponto de venda, empresas de câmbio, serviços de notarização, comerciantes e muito mais.
 
-11.3 Conversores 
+11.3 Conversores
 
 Os conversores são a espinha dorsal física da rede U.CASH e existem em todos os lugares, tanto on-line como off-line. Eles fornecem serviços de carregamento e descarga aos usuários finais em uma variedade de métodos, verificação pessoal de usuários (no caso de MSBs) e outros serviços. Existem vários tipos de conversores na rede U.CASH:
 
@@ -431,4 +431,3 @@ A U.CASH está criando um consórcio composto por várias entidades de serviços
 13. Conclusão
 
 U.CASH é construído para alcançar a adoção em massa e usabilidade desde o início. Neste artigo, explicamos as soluções técnicas e de negócios que dão aos usuários finais e outras partes oportunidades previamente impossíveis, e abrem caminho para a adoção rápida de moedas digitais e tecnologias de cadeias de blocos. Ofertando uma base fundamental sistêmica, tecnicamente, economicamente e socialmente sólida, usuários, conversores e outras entidades podem se unir para acessar ou fornecer serviços em escala global. Os mecanismos únicos propostos para a distribuição de recompensas do combustível nativo e o próprio modelo de negócios são partes de um movimento maior que trará desbloqueio para o mundo. Que a verdadeira missão comece!
-

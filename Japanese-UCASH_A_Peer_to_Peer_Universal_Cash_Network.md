@@ -1,8 +1,8 @@
 ---
-title: Japanese - U·CASH: A Peer-to-Peer Universal Cash Network.docx
+title: Japanese - UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /japanese--u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /japanese-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1E0pOUGwY5gUuwqLrtLACy64MqNvwTDhtuOdM7OajvZ0
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 **U.CASH:グローバルなピアツーピア金融サービスネットワーク**
 
-*[http://u.cas*h](http://www.u.cash/)* - info@u.cash*
+*[http://u.cash](http://www.u.cash/)* - info@u.cash*
 
 **要旨　**従来の金融取引方法は日に日に廃れてきています。最近では、エンドユーザーやサービスプロバイダーに、より良いサービスを提供できることを踏まえ、古いビジネスモデルからピアツーピアシェアリングエコノミー（共通経済）への移行が実践されてきました。元来ビットコインがもたらしたブロックチェーンイノベーションのおかげで、金融エコシステムや他の金融仲介機関が果たしてきた役割を、誰もがアクセスできるソフトウェアコードに任せることにより、テクノロジーを中心とした取引が可能になりました。ブロックチェーン技術のおかげで、頻繁にサービスを利用しているユーザー自らがデジタルツールを使うことで、自ら取引を完結させる時代になったのです。最近では、身近な金融機関を利用しなくてもよくなり、多くのユーザーが自身の財政状態に関係なく、膨大な量の金融サービスにアクセス可能な世界規模のサービスに目を向けるようになりました。私達はこのような変化を総じて、グローバル・アンバンキングと呼びます。U.CASHはその所持しているテクノロジー層と全てのユーザーに対し、金融サービスを届けることのできる環境を提供することによって、触媒としての働きを担います。
 

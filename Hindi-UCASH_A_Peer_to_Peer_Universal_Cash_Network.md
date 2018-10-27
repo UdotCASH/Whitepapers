@@ -1,5 +1,5 @@
 ---
-title: Hindi- U·CASH: A Peer-to-Peer Universal Cash Network
+title: Hindi- UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
 permalink: /hindi--u·cash:-peer-to-peer-universal-cash-network/

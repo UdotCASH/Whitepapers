@@ -1,5 +1,5 @@
 ---
-title: Marathi - U·CASH: A Peer-to-Peer Universal Cash Network.doc
+title: Marathi - UCASH: A Peer-to-Peer Universal Cash Network.doc
 layout: whitepaper
 author: ucash community
 permalink: /marathi--u·cash:-a-peer-to-peer-universal-cash-network.doc/

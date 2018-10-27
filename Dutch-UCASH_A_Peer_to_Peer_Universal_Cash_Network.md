@@ -1,8 +1,8 @@
 ---
-title: Dutch - UCASH Whitepaper .docx
+title: Dutch - UCASH Whitepaper 
 layout: whitepaper
 author: ucash community
-permalink: /dutch--ucash-whitepaper-.docx/
+permalink: /dutch--ucash-whitepaper-/
 source-id: 1zoxECmxVaP6_VKz9o9-6Oy-RGMCs-YQtrEkU-0WSdGc
 published: true
 ---
@@ -26,7 +26,7 @@ Introductie van U.CASH: wereldwijde financiële diensten in peer-to-peer netwerk
 
 **U****.****CASH: wereldwijde financiële diensten in peer-to-peer netwerken**
 
-*[http://u.cas*h](http://www.u.cash/)* - info@u.cash*
+*[http://u.cash](http://www.u.cash/)* - info@u.cash*
 
 **Abstract**. 
 

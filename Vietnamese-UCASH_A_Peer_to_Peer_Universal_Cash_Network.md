@@ -1,8 +1,8 @@
 ---
-title: Vietnamese - U·CASH: A Peer-to-Peer Universal Cash Network.docx
+title: Vietnamese - UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /vietnamese--u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /vietnamese-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1mfEk28qbi0qkjubh65Onq2b8Y-ahRlEIK4t2qyldlQw
 published: true
 ---

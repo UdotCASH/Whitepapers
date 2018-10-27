@@ -1,8 +1,8 @@
 ---
-title: German - U·CASH: A Peer-to-Peer Universal Cash Network.docx
+title: German - UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /german--u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /german-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1P8ygi_Xs1TbkYD3OwpBSWgD_tNRepY_mvWCnfeVujJk
 published: true
 ---
@@ -18,7 +18,7 @@ EINFÜHRUNG IN U.CASH'S PLAN FÜR GLOBALE P2P-FINANZ-DIENSTLEISTUNGEN
 
 **U****·****CASH: A Peer-to-Peer Global Financial Services Network**
 
-*[http://u.cas*h](http://www.u.cash/)* - info@u.cash*
+*[http://u.cash](http://www.u.cash/)* - info@u.cash*
 
 U.CASH: Ein Peer-to-Peer-Netzwerk für globale Finanzdienstleistungen
 
