@@ -8,11 +8,11 @@ published: true
 ---
 GIỚI THIỆU LỘ TRÌNH CÁC DỊCH VỤ TÀI CHÍNH NGANG HÀNG TOÀN CẦU
 
-**Website** - **http://u.cash**
+**Website** - **https://u.cash**
 
 **U.CASH: Mạng Lưới Các Dịch Vụ Tài Chính Ngang Hàng Toàn Cầu**
 
-[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
+[https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
 **Khái niệm**. Giao dịch ngân hàng truyền thống giờ đây đã trở nên lỗi thời. Các mô hình kinh doanh cũ đã được thay thế bằng các phương thức chia sẻ ngang hàng làm tăng cường lượng khách hàng cũng như các nhà cung cấp dịch vụ. Việc phát minh ra Blockchain, mà khởi đầu bằng Bitcoin, đã cho phép công nghệ thay thế vai trò của các tổ chức quản lý tập trung truyền thống, cải tạo các quy trình nội bộ của hệ thống ngân hàng và các tổ chức tài chính trung gian thành các mã phần mềm ai cũng có thể được truy cập. Khái niệm trung thành với một thương hiệu hay khách hàng truyền thống đã chuyển đổi thành khái niệm tự quyết định về tài chính thông qua các công cụ kỹ thuật số hiện có nhờ các công nghệ blockchain. Người dùng giờ đây chuyển qua sử dụng các dịch vụ toàn cầu cho phép họ tiếp cận không giới hạn các dịch vụ bất kể "tình trạng tài chính" của họ mà không bị hạn chế hay cấm cản như đối với các định chế tài chính truyền thống. Chúng tôi gọi sự thay đổi to lớn này là “phi ngân hàng toàn cầu” và U.CASH là chất UCASH tác cho tiến trình này nhờ bản chất của mô hình kinh doanh của nó, nền tảng kỹ thuật và ý tưởng có một không hai là giúp mọi người được tiếp cận tới mọi dịch vụ tài chính.  
 

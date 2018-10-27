@@ -8,7 +8,7 @@ published: true
 ---
 वैश्विक पी 2 पी वित्तीय सेवाओं के लिए एक रोडमैप का परिचय
 
-**Website - [http://u.cash](http://u.cash)**
+**Website - [https://u.cash](https://u.cash)**
 
 **यु. कैश: एक ीयर ट-पीयर वैश्विक वित्तीय सेव नेटवर्क**
 

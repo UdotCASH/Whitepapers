@@ -8,11 +8,11 @@ published: true
 ---
 MEMPERKENALKAN RENCANA U.CASH UNTUK LAYANAN KEUANGAN GLOBAL P2P
 
-**Website - _http://u.cash_**
+**Website - _https://u.cash_**
 
 **U.CASH: Jaringan Layanan Keuangan Global Peer-to-Peer**
 
-[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
+[https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
 **Abstrak**. Perbankan tradisional menjadi usang. Model lama dalam melakukan bisnis digantikan oleh ekonomi berbagi peer-to-peer, yang memberdayakan pengguna akhir dan penyedia layanan individual. Inovasi Blockchain, yang pada awalnya diperkenalkan oleh Bitcoin, memungkinkan teknologi memainkan peran entitas terpusat tradisional, mengubah proses internal bank dan perantara keuangan lainnya menjadi kode perangkat lunak yang dapat diakses oleh semua orang. Kesetiaan merek dan pelanggan seumur hidup beralih ke penentuan nasib finansial sendiri melalui alat digital yang sangat tersedia, semuanya berkat teknologi blockchain. Pengguna beralih ke layanan global yang memberi mereka akses tanpa batas ke layanan terlepas dari status keuangan mereka di dunia tanpa kerepotan dan tidak dapat diaksesnya institusi tradisional. Kami menyebut perubahan massa ini sebagai 'unbanking global' dan U.CASH adalah katalisator proses ini berdasarkan model bisnis, lapisan teknologi dan proposisi unik untuk membawa akses layanan keuangan ke semua.  
 

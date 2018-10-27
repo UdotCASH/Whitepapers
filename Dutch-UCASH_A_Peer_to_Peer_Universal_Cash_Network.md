@@ -8,11 +8,11 @@ published: true
 ---
 Introductie van UCASH: wereldwijde financiële diensten in peer-to-peer netwerken
 
-**Website - _http://u.cash_**
+**Website - _https://u.cash_**
 
 **U.CASH: wereldwijde financiële diensten in peer-to-peer netwerken**
 
-[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
+[https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
 **Abstract**.
 

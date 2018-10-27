@@ -16,11 +16,11 @@ nke ndi ọgbọ na mba
 
 ụwa
 
-	webusayitị - [http://u.cash](http://u.cash)
+	webusayitị - [https://u.cash](https://u.cash)
 
 **U·CASH: ọrụ akụ n'ụba nke ndi ọgbọ na mba ụwa**
 
-[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
+[https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
 **Nchịkọta:** uzọ ochie nke ụlọ akụ ego ji arụ ọrụ aghọwala ihe na abaghị n'ihe. A na-eji ụdị ndị na-eme ka ndị ọgbọ na-azụ ahịa na-agbanwe oge ochie eji azụ ahịa, na-enye ndị ọrụ ikpeazụ na ndị na-ahụ maka ọrụ ike. Mgbanwe site na Blockcheni, nke mbụ Bitcoin wetara, na-ekwe ka nkà na ụzụ na-arụ ọrụ nke ụlọ ọrụ ọdịbendị omenala, na-agbanwe usoro nhazi nke ụlọ akụ na ndị ọzọ na-akpata ego n'ime koodu softuwee nke mmadu nile nwere ike ịnweta. Iguzosi ike nke ejiri mara na ndị ahịa na-abanye na mgbebi uzo aku n’uba nke onwe site na ngwá ọrụ dijitalụ dị ukwuu site n'ikike nke nkà na ụzụ blockcheni. Ndị ọrụ na-atụgharịrị ọrụ nke ụwa na-enye ha ohere ịnweta ọrụ n'enweghị ike ịbanye na ọrụ n'agbanyeghị ọnọdụ 'ego' ha na ụwa, n'enweghị nsogbu na ọdịda nke ụlị ọrụ ego omenala. Anyị na-akpọ uka a ịgbanwe 'uzoro ọrụ ụlọ ego ụwa. U.CASH bụ ihe na-eme ka usoro a nwee isi site na ụdị ahịa ya, nkwado nkà na ụzụ na echiche pụrụ iche iji mee ka ọrụ ego nweta ohere niile.
 

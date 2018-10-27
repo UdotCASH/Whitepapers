@@ -6,15 +6,14 @@ permalink: /french-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1A8bXWSufGOciYyYTW3UE_xLPQTOtCeKOZ5JOW1krLjw
 published: true
 ---
-![image alt text]({{ site.url }}/public/wLd56o4YeTFb1rGd3KtE2Q_img_0.png)![image alt text]({{ site.url }}/public/wLd56o4YeTFb1rGd3KtE2Q_img_1.png)
 
 FEUILLE DE ROUTE DES SERVICES FINANCIERS MONDIAUX ENTRE PAIRS
 
-Site web — http://u.cash
+Site web — https://u.cash
 
-U.CASH : Un réseau mondial de services financiers entre pairs
+**U.CASH : Un réseau mondial de services financiers entre pairs**
 
-http://u.cash — info@u.cash
+[https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
 Résumé. Les services financiers traditionnels deviennent obsolètes. Le modèle archaïque des affaires se fait remplacer par une économie de partage entre pairs, ainsi accordant plus de pouvoir à l'utilisateur final et aux fournisseurs de services individuels. Les blockchains innovatrices, commencées par Bitcoin, dotent la technologie du rôle des institutions traditionnelles centralisées, et transforment les procédés internes de la banque ou ceux des autres acteurs financiers en codage informatique accessible à tous. Les clients permanents et fidèles à la marque se tournent vers l’autodétermination financière via les outils informatiques plus que disponibles grâce à la technologie de blockchains. Les utilisateurs choisissent le service mondial qui leur donne un accès complet aux services, peu importe leur « situation financière », plutôt que les institutions traditionnelles qui sont parfois compliquées et inaccessibles. U.CASH est le catalyseur du phénomène de masse que nous appelons « l’altermondialisme bancaire » en vertu de son modèle d’entreprise, son aspect technologique et sa proposition unique qui favorise l’accessibilité des services financiers à tous.  
 
