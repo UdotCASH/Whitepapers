@@ -26,7 +26,7 @@ Website - **http://u.cash**
 
 **U**·**CASH: A Peer-to-Peer Global Financial Services Network**
 
-*[http://u.cash](http://www.u.cash/)* - **info@u.cash
+*[http://u.cash](http://www.u.cash/)* - info@u.cash
 
 **Abstract**. Traditional banking is becoming obsolete. Old models of doing business are being replaced by peer-to-peer sharing economies, empowering end users and individual service providers.  Blockchain innovations, initially introduced[ by Bitcoin](https://bitcoin.org/bitcoin.pdf), are allowing technology to play the role of traditional centralized entities, transfiguring the  internal processes of banks and other financial intermediaries into software code that is accessible by all. Brand loyalty and customers for life are turning to financial self-determination via highly available digital tools all courtesy of blockchain technologies. Users are turning towards global services which give them seamless access to services regardless of their 'financial status' in the world without the hassles and inaccessibility of traditional institutions.  We call this mass change the ‘global unbanking’ and U.CASH is the catalyst to this process by virtue of its business model, technological layer and unique proposition to bring financial services access to all.  
 
