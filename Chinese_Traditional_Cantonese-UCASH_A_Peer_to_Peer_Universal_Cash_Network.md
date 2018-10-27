@@ -8,7 +8,8 @@ published: true
 ---
 有關裕.金
 
-(U. CASH)的全球對等
+(U. CASH)的
+全球對等
 
 金融服務網絡計劃
 
@@ -16,7 +17,8 @@ published: true
 
 **_網站 - _****_http://u.cash_**
 
-**裕.金: 全球對等金融服務網絡***[http://u.cash* ](http://www.u.cash/) *-info@u.cash *[info@u.cash](mailto:info@u.cash)
+**裕.金: 全球對等金融服務網絡
+***[http://u.cash* ](http://www.u.cash/) *-info@u.cash *[info@u.cash](mailto:info@u.cash)
 
 **簡介**
 
@@ -444,7 +446,8 @@ published: true
 
 保安及科技 | Shyaam Sundhar
 
-遵法及守則| Amber D. Scott MSB 及零售 | Marlon Neil
+遵法及守則| Amber D. Scott 
+MSB 及零售 | Marlon Neil
 
 財經科技及區塊鏈| Chami Akmeemana
 
