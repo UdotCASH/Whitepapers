@@ -14,7 +14,7 @@ Website - https://u.cash
 
 [https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
-**Abstract** 
+**Abstract**
 
 Traditional banking is becoming obsolete. Old models of doing business are being replaced by peer-to-peer sharing economies, empowering end users and individual service providers.  Blockchain innovations, initially introduced[ by Bitcoin](https://bitcoin.org/bitcoin.pdf), are allowing technology to play the role of traditional centralized entities, transfiguring the  internal processes of banks and other financial intermediaries into software code that is accessible by all. Brand loyalty and customers for life are turning to financial self-determination via highly available digital tools all courtesy of blockchain technologies. Users are turning towards global services which give them seamless access to services regardless of their 'financial status' in the world without the hassles and inaccessibility of traditional institutions.  We call this mass change the ‘global unbanking’ and U.CASH is the catalyst to this process by virtue of its business model, technological layer and unique proposition to bring financial services access to all.  
 
@@ -278,7 +278,7 @@ Due to the unique issues arising from trying to lock value in a digital wallet f
 
 
 
-**Smart Contract Based Locking - **Smart-contract value locking can best be described by providing a simplified technological answer, and through examples.  Smart-contract based locking is a form of scripted automatic updates to multi-signature wallets that maintain a digital currency balance (such as  Bitcoin) that is equal to the U.CASH fiat currency value (ie. USD, CAD, EUR, INR, etc.) the users of the platform are locked in at.  Liquidity providers guarantee certain amount of funds in real-world financial contracts with U.CASH Inc. and its users, and U.CASH allows for these providers to participate in the long-term value increase of digital currencies, without having the risk of holding the actual digital funds themselves.  Hundreds of thousands of wallets are maintained for multiple currency pairs (everyone that exists on the planet that users want), as well as combinations with other asset types to perform these value locking (and unlocking) actions for users & converters.  A secure smart-contract enabled environment maintains the values of the U.CASH balances and makes sure the converters, users, liquidity providers, and other parties have direct secure access to their digital fiat currency tokens and the backed digital asset.
+**Smart Contract Based Locking** - Smart-contract value locking can best be described by providing a simplified technological answer, and through examples.  Smart-contract based locking is a form of scripted automatic updates to multi-signature wallets that maintain a digital currency balance (such as  Bitcoin) that is equal to the U.CASH fiat currency value (ie. USD, CAD, EUR, INR, etc.) the users of the platform are locked in at.  Liquidity providers guarantee certain amount of funds in real-world financial contracts with U.CASH Inc. and its users, and U.CASH allows for these providers to participate in the long-term value increase of digital currencies, without having the risk of holding the actual digital funds themselves.  Hundreds of thousands of wallets are maintained for multiple currency pairs (everyone that exists on the planet that users want), as well as combinations with other asset types to perform these value locking (and unlocking) actions for users & converters.  A secure smart-contract enabled environment maintains the values of the U.CASH balances and makes sure the converters, users, liquidity providers, and other parties have direct secure access to their digital fiat currency tokens and the backed digital asset.
 
 
 
@@ -495,7 +495,7 @@ Converters are the physical backbone of the U.CASH network and exist everywhere,
 
 
 
-**1)**     **Master Converters **– Provide U.CASH liquidity to other converters in local areas or countries as well as offer financial services.  Master converters will initially be large money service business partners and other highly capitalized entities, but we will expand to include other financial institutions over the coming months and years.
+**1)**     **Master Converters** – Provide U.CASH liquidity to other converters in local areas or countries as well as offer financial services.  Master converters will initially be large money service business partners and other highly capitalized entities, but we will expand to include other financial institutions over the coming months and years.
 
 **2)**     **MSB Converters (Money Service Businesses)** – Single store, or multi-store brands which offer traditional money service business activities as well as online companies whose user base could benefit from U.CASH.
 
