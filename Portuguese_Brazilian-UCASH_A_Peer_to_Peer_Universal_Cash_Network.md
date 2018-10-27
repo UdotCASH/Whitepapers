@@ -8,26 +8,14 @@ published: true
 ---
 INTRODUZINDO O PLANO U.CASH PARA SERVIÇOS FINANCEIROS GLOBAIS P2P
 
+**Website - _http://u.cash_**
+
+**U·CASH: Uma Rede Global de Serviços Financeiros Peer-to-Peer**
+
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 
-
-
-
-
-
-
-
-**_Website - _****_http://u.cash_**
-
-**U****·****CASH: Uma Rede Global de Serviços Financeiros Peer-to-Peer **
-
-*[http://u.cash](http://www.u.cash/)* - info@u.cash*
-
-
-
-
-
-Resumo: O banco tradicional está ficando obsoleto. Os velhos modelos de negócios estão sendo substituídos por economias de compartilhamento peer-to-peer, capacitando usuários finais e provedores de serviços individuais. As inovações Blockchain, inicialmente introduzidas pela Bitcoin, permitem à tecnologia desempenhar o papel de entidades centralizadas tradicionais, transfundindo os processos internos dos bancos e outros intermediários financeiros em um código de software acessível por todos. A fidelidade da marca e os clientes para toda a vida estão se voltando para a autodeterminação financeira, através de ferramentas digitais altamente disponíveis, todas com cortesia das tecnologias blockchain. Os usuários estão se voltando para serviços globais que lhes dão acesso contínuo aos produtos e serviços, independentemente do seu "status financeiro" no mundo, sem os problemas e a inacessibilidade das instituições tradicionais. Nós chamamos essa mudança em massa do "unbanking global", e U.CASH é catalisador deste processo, em virtude de seu modelo de negócios, camada tecnológica e proposição única para oferecer acesso a todos os serviços financeiros.
+**Resumo:** O banco tradicional está ficando obsoleto. Os velhos modelos de negócios estão sendo substituídos por economias de compartilhamento peer-to-peer, capacitando usuários finais e provedores de serviços individuais. As inovações Blockchain, inicialmente introduzidas pela Bitcoin, permitem à tecnologia desempenhar o papel de entidades centralizadas tradicionais, transfundindo os processos internos dos bancos e outros intermediários financeiros em um código de software acessível por todos. A fidelidade da marca e os clientes para toda a vida estão se voltando para a autodeterminação financeira, através de ferramentas digitais altamente disponíveis, todas com cortesia das tecnologias blockchain. Os usuários estão se voltando para serviços globais que lhes dão acesso contínuo aos produtos e serviços, independentemente do seu "status financeiro" no mundo, sem os problemas e a inacessibilidade das instituições tradicionais. Nós chamamos essa mudança em massa do "unbanking global", e U.CASH é catalisador deste processo, em virtude de seu modelo de negócios, camada tecnológica e proposição única para oferecer acesso a todos os serviços financeiros.
 
 
 

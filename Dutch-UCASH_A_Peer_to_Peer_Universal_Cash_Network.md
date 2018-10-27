@@ -6,27 +6,13 @@ permalink: /dutch--ucash-whitepaper-/
 source-id: 1zoxECmxVaP6_VKz9o9-6Oy-RGMCs-YQtrEkU-0WSdGc
 published: true
 ---
-Introductie van U.CASH: wereldwijde financiële diensten in peer-to-peer netwerken
+Introductie van UCASH: wereldwijde financiële diensten in peer-to-peer netwerken
 
+**Website - _http://u.cash_**
 
+**U.CASH: wereldwijde financiële diensten in peer-to-peer netwerken**
 
-
-
-
-
-
-
-
-
-
-
-
-
-**_Website - _****_http://u.cash_**
-
-**U****.****CASH: wereldwijde financiële diensten in peer-to-peer netwerken**
-
-*[http://u.cash](http://www.u.cash/)* - info@u.cash*
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **Abstract**.
 

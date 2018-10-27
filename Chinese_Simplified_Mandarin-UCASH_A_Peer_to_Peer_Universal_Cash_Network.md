@@ -14,12 +14,11 @@ published: true
 
 
 
-**_网站-_***_http://u.cash
-_**
+**_网站-http://u.cash*
 
-**裕****•****金: 全球对等金融服务网**
+**裕****金: 全球对等金融服务网**
 
-*[http://u.cash* ](http://www.u.cash/) *-info@u.cash info@u. cash*
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **简介**.
 

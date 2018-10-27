@@ -16,11 +16,11 @@ EINFÜHRUNG IN U.CASH'S PLAN FÜR GLOBALE P2P-FINANZ-DIENSTLEISTUNGEN
 
 **_Website - _****_http://u.cash_**
 
-**U****·****CASH: A Peer-to-Peer Global Financial Services Network**
+**U.CASH: A Peer-to-Peer Global Financial Services Network**
 
-*[http://u.cash](http://www.u.cash/)* - info@u.cash*
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
-U.CASH: Ein Peer-to-Peer-Netzwerk für globale Finanzdienstleistungen
+UCASH: Ein Peer-to-Peer-Netzwerk für globale Finanzdienstleistungen
 
 http://u.cash - info@u.cash
 

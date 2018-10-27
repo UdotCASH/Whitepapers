@@ -8,11 +8,11 @@ published: true
 ---
 تقديم خطة U.CASH لخدمات مالية عالمية بطريقة الند-  للند
 
-**_الموقع على الإنترنت _[http://u.cash](http://u.cash)
+الموقع على الإنترنت [http://u.cash](http://u.cash)
 
-**U.CASH**** ****شبكة ند-  للند عالمية للخدمات المالية**
+**U.CASH**** شبكة ند-  للند عالمية للخدمات المالية**
 
-*[http://u.cash](http://www.u.cash/)
+[http://u.cash](http://www.u.cash/)
 
 *info@u.cash*
 

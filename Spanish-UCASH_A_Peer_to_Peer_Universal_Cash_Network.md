@@ -6,31 +6,23 @@ permalink: /spanish-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1YmViZKRl6ZvlpBjvmNweLDCws32UEz6SF9pcEvWdKdA
 published: true
 ---
-PRESENTANDO EL PLAN DE U.CASH PARA SERVICIOS FINANCIEROS GLOBALES P2P 
+PRESENTANDO EL PLAN DE U.CASH PARA SERVICIOS FINANCIEROS GLOBALES P2P
 
- 
+**Sitio web - _http://u.cash_**
 
- 
+**U·CASH: Una red global de servicios financieros entre iguales **
 
- 
-
-  
-
-**_Sitio web - _****_http://u.cash_**
-
-**U****·****CASH: Una red global de servicios financieros entre iguales **
-
-*[http://u.cash](http://www.u.cash/)* - info@u.cash*
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **Resumen**. Los servicios financieros tradicionales se están volviendo obsoletos. Los viejos modelos para hacer negocios están siendo remplazados por economías de intercambio entre iguales, fortaleciendo a los usuarios finales y a los proveedores individuales de servicios. Las innovaciones de la cadena articulada o de bloques, conocida como *blockchain*, que fue introducida inicialmente [por Bitcoin](https://bitcoin.org/bitcoin.pdf), está permitiendo que la tecnología juegue el rol de las entidades tradicionalmente centralizadas, transfigurando los procesos internos del ecosistema financiero y de los intermediarios financieros, en un código software accesible por todos. La lealtad hacia la marca y los clientes de por vida, se está cambiando por la autonomía financiera a través de herramientas digitales ampliamente disponibles, todo por cortesía de las tecnologías de *blockchain*.  Los usuarios están recurriendo a las plataformas y aplicaciones globales que les brindan un acceso continuo a los servicios, independientemente de su "estado financiero" en el mundo y sin las molestias e inaccesibilidad de las instituciones tradicionales. A este cambio masivo lo llamamos "desbancarización global" y U.CASH es el catalizador de este proceso en virtud de su modelo de negocio, su capacidad tecnológica y de su propuesta de valor única para permitir el acceso a todas las personas a los servicios financieros.  
 
 U.CASH es una plataforma financiera basada en la cadena articulada o *blockchain* y una red digital de conversión de activos con una criptomoneda incorporada para el pago de tarifas, ejecución de contratos inteligentes y otras funcionalidades adicionales. Nuestros convertidores minoristas son nuestras sucursales y nuestros cajeros automáticos. Los convertidores minoristas van desde negocios en instalaciones hasta individuos móviles, proporcionando capacidades para cargar y descargar en persona. Los convertidores en línea aceptan varias opciones de financiación remota (como depósitos bancarios, transferencias en línea, redes de remesas y otras formas de pago) aumentando la capacidad de los usuarios para acceder fácilmente a la red, incluso sin un convertidor minorista cercano.  
 
-Nuestros socios son terceros proveedores que permiten a los usuarios acceder a servicios específicos en sus localidades. Estos incluyen acceso al pago de facturas locales, proveedores de servicios de telefonía móvil, redes de remesas, administración de préstamos, tarjetas de prepago y mucho más.  Nuestros comerciantes son negocios (o individuos) que aceptan U.CASH (o cualquier otra forma de efectivo digital) como pago por sus productos o servicios. Nuestros usuarios son aquellas personas en el mundo que verdaderamente quieren controlar su dinero, sus activos digitales, sus datos y el acceso a diversos servicios y métodos de financiación, independientemente de dónde se encuentren.  Las transacciones son totalmente entre iguales, entre todos los usuarios, convertidores, comerciantes y socios comerciales proveedores de servicios, lo que permite una rápida liquidación y altos grados de confianza, cuando se utilizan en combinación con nuestro sistema de revisión de comentarios. 
+Nuestros socios son terceros proveedores que permiten a los usuarios acceder a servicios específicos en sus localidades. Estos incluyen acceso al pago de facturas locales, proveedores de servicios de telefonía móvil, redes de remesas, administración de préstamos, tarjetas de prepago y mucho más.  Nuestros comerciantes son negocios (o individuos) que aceptan U.CASH (o cualquier otra forma de efectivo digital) como pago por sus productos o servicios. Nuestros usuarios son aquellas personas en el mundo que verdaderamente quieren controlar su dinero, sus activos digitales, sus datos y el acceso a diversos servicios y métodos de financiación, independientemente de dónde se encuentren.  Las transacciones son totalmente entre iguales, entre todos los usuarios, convertidores, comerciantes y socios comerciales proveedores de servicios, lo que permite una rápida liquidación y altos grados de confianza, cuando se utilizan en combinación con nuestro sistema de revisión de comentarios.
 
 Los contratos inteligentes específicos habilitados por la tecnología de cadena articulada o *blockchain* gobiernan todas las transacciones en la red, a la vez que permiten el acceso a otro tipo de servicios que previamente eran inaccesibles, tales como la autenticación ante notario basada en la cadena articulada y las capacidades de custodia descentralizada.
 
-Usando la experiencia y los datos del mundo real, respaldados por consultas y la colaboración de múltiples socios, U.CASH ha desarrollado un nuevo sistema de distintos tipos de servicios financieros, construido sobre la base de la tecnología de cadena articulada o *blockchain* y de un modelo económico distribuido. Dejemos que comience la desbancarización. 
+Usando la experiencia y los datos del mundo real, respaldados por consultas y la colaboración de múltiples socios, U.CASH ha desarrollado un nuevo sistema de distintos tipos de servicios financieros, construido sobre la base de la tecnología de cadena articulada o *blockchain* y de un modelo económico distribuido. Dejemos que comience la desbancarización.
 
 **Tabla de contenidos**
 
@@ -134,31 +126,31 @@ Este documento describe cómo funciona U.CASH, cuáles son nuestros objetivos y 
 
 #### **2.**	**Una visión para el ecosistema financiero mundial**
 
- 
+
 
 El acceso seguro y eficiente a un sistema financiero mundial es fundamental para el buen funcionamiento de la economía digital futura. Los servicios financieros serán tan accesibles y omnipresentes como el correo electrónico o las redes sociales. El alto nivel de confianza que los usuarios tengan en el futuro sistema financiero *peer-to-peer *o de igual a igual y la eficiencia de ese sistema para hacer circular valores de manera segura, al tiempo que se satisfacen las necesidades diarias, contribuirá a la solidez de la economía global y de la red U.CASH. A medida que las fuerzas externas ejerzan una presión adicional sobre el sistema, existirá una necesidad crítica de que el sistema responda de forma apropiada y evolucione. Un verdadero ecosistema financiero global debe tener en consideración la amplia variedad de servicios para el usuario, los requerimientos de monedas y activos, además de ser lo suficientemente extensible como para conectarse con múltiples tecnologías, aplicaciones y proveedores independientes, para que pueda satisfacer las demandas de su red.
 
 Los sistemas financieros deben ser dinámicos y proactivos con respecto a los requerimientos en constante evolución de los usuarios en la nueva economía extendida. Como una red independiente que se decreta agnóstica del efectivo y de la moneda digital, U.CASH permite a sus usuarios cargar e interactuar con cualquier moneda respaldada o con cualquier activo de su elección. Como un combustible nativo de la red, UCASH, se utiliza para formalizar acuerdos entre usuarios, para la transmisión de datos, así como para la distribución de contratos avanzados entre destinatarios, remitentes, usuarios y convertidores. La mayoría de UCASH será distribuida utilizando el modelo de Oferta Inicial de Recompensas (IBO), aumentando la capacidad de los usuarios, desde cualquier parte del mundo, para unirse a la red y contribuir a su crecimiento. Este modelo de distribución se explica con más detalle en el documento adjunto "Oferta Inicial de Recompensas (IBO): un marco de trabajo para crear organizaciones que habiliten la cadena articulada o *blockchain*".
 
- 
 
-U.CASH está diseñado para ser el habilitador del ecosistema y el revestimiento transaccional para permitir un ecosistema financiero verdaderamente global. Como una "utilidad pública" a la que cualquier persona en el mundo puede acceder, y como una forma para ganar ingresos y nuevos clientes, U.CASH está diseñado para empoderar y cambiar paradigmas cuando se trata de proporcionar inclusión financiera de todos. 
+
+U.CASH está diseñado para ser el habilitador del ecosistema y el revestimiento transaccional para permitir un ecosistema financiero verdaderamente global. Como una "utilidad pública" a la que cualquier persona en el mundo puede acceder, y como una forma para ganar ingresos y nuevos clientes, U.CASH está diseñado para empoderar y cambiar paradigmas cuando se trata de proporcionar inclusión financiera de todos.
 
 #### **3.** 	**Desafíos de los mercados financieros tradicionales**
 
- 
+
 
 Los servicios financieros tradicionales tienen múltiples problemas que limitan su uso y su crecimiento en los mercados emergentes y en el comercio móvil. Su capacidad para adaptarse a los requerimientos de una población, cuyos conocimientos tecnológicos crecen rápidamente en el mundo en desarrollo, está disminuyendo con el tiempo.
 
 La capacidad de las pequeñas entidades para proveer servicios financieros ha sido históricamente obstaculizada por los altos costes de despliegue, regulación y mantenimiento, soluciones sobre la propiedad, los API (*Application Programming Interface*) de fuente cerrada y por el hecho de que la seguridad adecuada, el cumplimiento de las obligaciones y la confianza dependen de costosos módulos de hardware y software. Todos estos factores conducen a unos altos costes de transacción, a retrasos y un aumento de la complejidad de los procedimientos del sistema, y a la incapacidad de entidades financieras para operar entre ellas. Esto significa una gran dificultad para servir a mercados cuyos ingresos o cuyas ganancias sean bajos y la incapacidad para proveer servicios financieros verdaderamente globales y totalmente accesibles.
 
- 
+
 
 U.CASH resuelve estos problemas proporcionando a los usuarios y a los proveedores de servicios una plataforma para administrar el dinero y el efectivo digital equivalente (efectivo universal), que incluye todos los módulos necesarios para una desbancarización, incluyendo contratos inteligentes distribuidos, aplicaciones móviles y en línea, y una infraestructura de seguridad de nivel financiero. U.CASH combina esta tecnología con una red de convertidores minoristas que proporcionan a los usuarios los medios para cargar y descargar fondos de sus monederos digitales. Este efectivo universal puede ser usado para muchos servicios financieros tradicionales tales como el pago de facturas, el envío de fondos, recargas de los teléfonos móviles, el pago de préstamos, tarjetas de prepago y otros. El acceso a esta plataforma está disponible para cualquier persona que tenga una conexión a Internet y los mismos usuarios pueden volverse convertidores y ofrecer a otras personas acceso a la red U.CASH.
 
 #### **3.1**	**Baja penetración de los sistemas bancarios tradicionales**
 
- 
+
 
 El mundo ha llegado a depender casi por completo de las instituciones financieras que sirven como terceros de confianza, para procesar transacciones electrónicas y actuar como agentes de custodia de los fondos y activos de las personas. Según las economías van creciendo y van siendo cada vez más dependientes de estas instituciones financieras centralizadas, los gobiernos están ajustando sus leyes en torno al blanqueo de capitales (AML) y a las reglas y nuevas regulaciones para "*conocer a tus clientes*" (KYC). Si bien estas medidas pretenden proteger a los usuarios, a menudo crean dificultades para que las empresas innoven financieramente, a la vez que los clientes finales pierden los beneficios de los avances de la tecnología financiera.
 
@@ -166,11 +158,11 @@ Cerca de 2,5 mil millones de personas viven en regiones donde no existe infraest
 
 #### **4.**	**¿Qué es U.CASH?**
 
- 
+
 
 U.CASH es una red de proveedores de servicios minoristas (convertidores) de igual a igual, combinada con aplicaciones móviles y en línea (apps) orientadas a proporcionar empoderamiento financiero. Le permite a cualquier persona en el mundo acceder a servicios similares a los de una entidad financiera, sin tener la necesidad de interactuar con la misma nunca más. Los convertidores permiten la conversión de dinero en efectivo a efectivo digital (incluyendo Bitcoin y otras monedas digitales) y viceversa. Los convertidores cobrarán unas tarifas de servicio por estas conversiones. Los usuarios finales utilizarán la aplicación para encontrar al convertidor más cercano o aquellos que proporcionen las mejores tarifas. Esta herramienta funciona de manera similar a otros modelos de negocio basados en la economía colaborativa. La aplicación U.CASH permite a los usuarios convertir el saldo de su balance a varias monedas digitales, pagar sus facturas, enviar dinero instantáneamente a todo el mundo, solicitar préstamos de otros convertidores, realizar recargas de su teléfono móvil y mucho más. Algunos de estos servicios son proporcionados por socios, incluyendo procesadores financieros de pagos, proveedores de servicios de telecomunicaciones, servicios de pago de facturas, negocios de servicios de dinero minorista e integración de software en línea. Para ayudar a facilitar las transacciones de igual a igual de forma eficiente, se requiere el uso de un combustible nativo (UCASH) que es construido usando su propia implementación sobre cada cadena articulada, para poder acceder a unas capacidades sólidas y robustas como contratos inteligentes y transacciones baratas, a la vez que se eliminan los riesgos de confiar en una única plataforma.
 
-Inicialmente probamos las capacidades de U.CASH utilizando una de las actualizaciones de Bitcoin.  Experimentamos con otras cadenas articuladas incluyendo Ethereum, pero rápidamente nos dimos cuenta de que los requerimientos del nicho de mercado para construir una red distribuida de servicios financieros, necesita una plataforma de cadena articulada construida a medida y que utilizara todas las tecnologías disponibles. Esperar las actualizaciones de softwares, así como los saltos tecnológicos asociados, utilizando las redes existentes era problemático, ya que las necesidades especializadas de nuestra red estarían en competencia con varios requerimientos de otras entidades y las necesidades generales de los usuarios de otras cadenas de bloque públicas. 
+Inicialmente probamos las capacidades de U.CASH utilizando una de las actualizaciones de Bitcoin.  Experimentamos con otras cadenas articuladas incluyendo Ethereum, pero rápidamente nos dimos cuenta de que los requerimientos del nicho de mercado para construir una red distribuida de servicios financieros, necesita una plataforma de cadena articulada construida a medida y que utilizara todas las tecnologías disponibles. Esperar las actualizaciones de softwares, así como los saltos tecnológicos asociados, utilizando las redes existentes era problemático, ya que las necesidades especializadas de nuestra red estarían en competencia con varios requerimientos de otras entidades y las necesidades generales de los usuarios de otras cadenas de bloque públicas.
 
 Creemos que habrá cadenas articuladas específicas cada industria por separado, tales como una "Cadena para servicios Legales" y una "Cadena para servicios Médicos", que directamente abordarán las necesidades de esas industrias.  U.CASH se propone apoyar a todas aquellas que tengan valor. Al usar sus propios estándares, códigos y funciones como bloques de construcción, U.CASH emulará y expandirá el sistema existente de servicios financieros, para habilitar un nuevo servicio financiero global.
 
@@ -178,7 +170,7 @@ Las transacciones U.CASH son entre pares, entre usuarios y convertidores, conver
 
 #### **5.**	**¿Qué hace que U.CASH funcione?**
 
- 
+
 
 U.CASH es accionada a través del uso de una combinación de monedas digitales, un sistema de firmas múltiples y contratos inteligentes con almacenamiento de datos distribuidos, que permiten el acceso a una red mundial globalmente compatible. La tecnología de cadena articulada es fundamental para U.CASH ya que nos permite redefinir y crear nuevos tipos de productos y servicios financieros, dirigidos tanto a consumidores de servicios financieros como a aquellos que no lo son, así como a comerciantes, convertidores y proveedores asociados. Con monedas digitales accionadas con cadenas articuladas y un dispositivo informático simple, los valores y los datos pueden ser intercambiados con unas tarifas mínimas y sin la intervención de ninguna autoridad centralizada. Los valores se pueden mover con seguridad sin necesidad de una confianza preexistente ni intermediarios. Las monedas digitales ofrecen pagos transfronterizos a bajo costo, remesas, pagos en línea, pagos de negocio a negocio y mucho más. Permiten las micro-finanzas y los préstamos a las personas, por las personas y para las personas. Se pueden asignar puntuaciones de crédito incluso en áreas donde viven millones de personas sin pasaporte u otras medios de documentación de identidad. Nuevos modelos de financiación están siendo construidos desde cero, lo que hará que muchos de los modelos existentes se vuelvan obsoletos.
 
@@ -200,7 +192,7 @@ Después de probar y desarrollar soluciones construidas sobre los protocolos de 
 
 El requisito de permitir ciertas capacidades o cierto alcance, tales como la transacción "tributada" por usuarios no verificados, los subsidios de tarifas para usuarios altamente verificados, o el construir la gobernanza para los convertidores y los usuarios, así como otros requerimientos futuros, nos ha llevado a desarrollar, desplegar y administrar un sistema que satisface las demandas de nuestra misión y de los beneficiarios de nuestra red. No podemos esperar o suponer que otras cadenas de bloque públicas con casos de uso en general, desarrollen su capacidad para satisfacer las demandas del nicho de una red global de servicios financieros. U.CASH toma ideas de múltiples cadenas de bloque funcionales e incluye nuestras propias propuestas de actualización (mediante el uso de tokens) para ofrecer una capa base más enfocada y completamente funcional, que pueda ser usada para potenciar esta red. U.CASH realiza esto sin depender de ninguna parte o entidad externa cuyos requerimientos, motivaciones y necesidades puedan ser totalmente diferentes a las nuestras.
 
-U.CASH integrará otras cadenas articuladas creando un determinado número de tokens para cada cadena de bloque representada. El suministro total de tokens creados en todas las cadenas articuladas será igual al suministro de tokens creado por la IBO (consulta la Sección 9: IBO - Oferta Inicial de Recompensas), a través de un mecanismo de vinculación de 1:1. Por ejemplo, si 1,000 millones de UCASH son recompensados durante la IBO, entonces solo 1,000 millones de UCASH estarán disponibles para usarse en todas las cadenas articuladas integradas en un momento dado. Nosotros aseguramos esto, intercambiando un token de la red de cadenas de bloque por otro, en cualquier momento, a través de la plataforma U.CASH, re-equilibrando efectivamente el suministro de tokens para mantener la consistencia. Durante el re-equilibrio, nuestro software determina automáticamente la cadena de bloques que ofrece las mayores ventajas en ese momento e instantáneamente establece la transacción de fondo. Reconocerá las transacciones en las que las capacidades ofrecidas por una cadena articulada tengan más ventajas sobre otra, tales como tarifas más bajas, contratos inteligentes efectivos, liquidez y más. Desde la perspectiva del usuario, todo lo que saben es que recibirán la mejor tarifa, un acuerdo rápido y el acceso a las capacidades más ventajosas disponibles en ese momento. Como resultado, los token UCASH se comercializarán libremente en los intercambios conforme aumenta su demanda, por su utilidad para tener un acceso continuo a una gran variedad de cadenas articuladas. El ser agnóstico e inclusivo en las cadenas articuladas, permite que el ecosistema U.CASH sea independiente de cualquier cadena articulada puesta en marcha, y también que todas las cadenas de bloque a las que puedan acceder, puedan ser utilizadas cuando sea de beneficio o requerido por sus usuarios. 
+U.CASH integrará otras cadenas articuladas creando un determinado número de tokens para cada cadena de bloque representada. El suministro total de tokens creados en todas las cadenas articuladas será igual al suministro de tokens creado por la IBO (consulta la Sección 9: IBO - Oferta Inicial de Recompensas), a través de un mecanismo de vinculación de 1:1. Por ejemplo, si 1,000 millones de UCASH son recompensados durante la IBO, entonces solo 1,000 millones de UCASH estarán disponibles para usarse en todas las cadenas articuladas integradas en un momento dado. Nosotros aseguramos esto, intercambiando un token de la red de cadenas de bloque por otro, en cualquier momento, a través de la plataforma U.CASH, re-equilibrando efectivamente el suministro de tokens para mantener la consistencia. Durante el re-equilibrio, nuestro software determina automáticamente la cadena de bloques que ofrece las mayores ventajas en ese momento e instantáneamente establece la transacción de fondo. Reconocerá las transacciones en las que las capacidades ofrecidas por una cadena articulada tengan más ventajas sobre otra, tales como tarifas más bajas, contratos inteligentes efectivos, liquidez y más. Desde la perspectiva del usuario, todo lo que saben es que recibirán la mejor tarifa, un acuerdo rápido y el acceso a las capacidades más ventajosas disponibles en ese momento. Como resultado, los token UCASH se comercializarán libremente en los intercambios conforme aumenta su demanda, por su utilidad para tener un acceso continuo a una gran variedad de cadenas articuladas. El ser agnóstico e inclusivo en las cadenas articuladas, permite que el ecosistema U.CASH sea independiente de cualquier cadena articulada puesta en marcha, y también que todas las cadenas de bloque a las que puedan acceder, puedan ser utilizadas cuando sea de beneficio o requerido por sus usuarios.
 
 También durante el período de IBO, por cada 500,000,000 de UCASH que sean distribuidas, el valor de las siguientes 500,000,000 de UCASH aumentará, dándole así a los participantes iniciales, un incentivo para involucrarse y finalizar con las recompensas más rápido.
 
@@ -208,17 +200,17 @@ También durante el período de IBO, por cada 500,000,000 de UCASH que sean dist
 
 ** **
 
-Como una red especializada que utiliza todas las redes funcionales de cadena articuladas o *blockchain*, construidas inicialmente para emular las funciones de un intermediario de servicios financieros (como un participante), U.CASH tiene requerimientos generales para situaciones de uso ya desarrollados y desplegados en algunas cadenas articuladas, aunque también necesita crear nuevas capacidades únicas por sí misma. Después de investigar y probar docenas de cadenas articuladas puestas en marcha, los código fuente e ideas, hemos reducido nuestros requerimientos a los fundamentos específicos necesarios para construir un ecosistema firme, económicamente sólido, seguro y próspero, en torno a la oferta de servicios que la red U.CASH provee. 
+Como una red especializada que utiliza todas las redes funcionales de cadena articuladas o *blockchain*, construidas inicialmente para emular las funciones de un intermediario de servicios financieros (como un participante), U.CASH tiene requerimientos generales para situaciones de uso ya desarrollados y desplegados en algunas cadenas articuladas, aunque también necesita crear nuevas capacidades únicas por sí misma. Después de investigar y probar docenas de cadenas articuladas puestas en marcha, los código fuente e ideas, hemos reducido nuestros requerimientos a los fundamentos específicos necesarios para construir un ecosistema firme, económicamente sólido, seguro y próspero, en torno a la oferta de servicios que la red U.CASH provee.
 
 La mayoría de los protocolos probados usaban Proof-of-Work(PoW) o prueba de trabajo, un proceso distribuido de registro de tiempo, originalmente delineado en el documento de Bitcoin por Satoshi Nakamoto. PoW consume mucha energía y capital, lo que proporciona una seguridad extrema pero también un desperdicio en forma de calor y recursos computacionales. Una extensión común del protocolo de Bitcoin modifica el mecanismo de consenso para una Proof-of-Stake (PoS) parcial o completa. PoS usa sus tokens como una columna de apoyo, más que como poder computacional y energía para participar en el proceso de registro de tiempo. Aunque las ganancias de eficiencia están bien documentadas, se han criticado los registros de tiempo distribuidos basados ​​en un puro PoS, incluyendo "nada en juego" y "simulación sin costo", describiendo la inestabilidad sistemática resultante de que los interesados son capaces de generar para sí mismos, historias alternativas de registro de tiempo sin coste. La discusión concerniente relativa a los pros y contras de los dos enfoques, está más allá del alcance de este documento, pero debe señalarse que ambos enfoques (así como las soluciones híbridas) pueden ser usadas y servir como la columna vertebral de una red de cadenas articuladas.  
 
 La red U.CASH combina la funcionalidad avanzada del contrato inteligente de Ethereum con la seguridad y la comunidad de Bitcoin, con las características de anonimato de Monero y Zcash, así como con el poder de muchas otras cadenas articuladas, para proveer un nuevo ecosistema sobre el cual construir servicios financieros repartidos. Los detalles de las cadenas articuladas integradas serán decididos a través de los comentarios de los compañeros iguales y de la comunidad, con U.CASh delineando los requerimientos básicos y el uso de los activos subyacentes en la plataforma de la cadena de valor. El lanzamiento de U.CASH introduce un modelo de negocio para la desbancarización del mundo y para el empoderamiento de los usuarios finales con la infraestructura subyacente de cadena de bloques. U.CASH continuará desarrollando una comunidad de proveedores asociados, convertidores, mineros, partes interesadas y constructores, que se darán poder entre ellos para construir un futuro financiero global mejor para todos.
 
- 
+
 
 #### **6.1**	**Regulaciones de cumplimiento **
 
- 
+
 
 Uno de los principios básicos del sistema financiero tradicional es el requerimiento de protocolos anti blanqueo de capitales (AML) y las regulaciones para conocer a tus clientes (KYC) como requisito para atender al público. Los programas de cumplimiento son promulgados por cada proveedor de servicios de acuerdo con los niveles de riesgo elegidos, así como con las normas establecidas en el marco legal y regulatorio de su jurisdicción. Estas raíces utilizadas para salvaguardar el orden, eliminan y procesan el uso indebido y el abuso nefasto de la red financiera, y protegen a los consumidores frente al fraude, las estafas y otras pérdidas o enredos accidentales en actividades delictivas.
 
@@ -242,19 +234,19 @@ Para ejecutar transacciones comerciales en la red U.CASH, los usuarios comienzan
 
 Cualquier sistema que requiera que los usuarios retengan y aseguren sus fondos propios, debe ser capaz de proporcionar copias de seguridad para el usuario, en caso de pérdida o en caso de que el dispositivo o la cuenta estén comprometidos. Esto lo logramos utilizando múltiples métodos, y asegurando que las copias de seguridad sean altamente seguras.
 
- 
+
 
 Todos los archivos con clave privada de un usuario son codificados con su contraseña antes de salir de su ordenador o dispositivo. La codificación se realiza en el lado del cliente utilizando Javascript, proporcionándole una protección contra la piratería en el lado del servidor. Además de ser almacenada localmente en su ordenador o dispositivo, la billetera cifrada del usuario se sincronizará automáticamente con los servidores U.CASH (o el servicio de almacenamiento distribuido), manteniéndola segura en caso de pérdida de datos. U.CASH nunca guardará copia de la contraseña y, por lo tanto, no será capaz de ver o gastar los fondos del usuario. Los usuarios mantienen el control total de sus fondos y sus claves privadas, por lo que sus monederos digitales no pueden ser incautados o bloqueados, y pueden ser importados por el cliente a cualquier moneda digital móvil o de escritorio preferida por el usuario. En caso de que el usuario pierda el acceso a su dispositivo informático, puede iniciar una sesión en línea desde cualquier lugar y obtener acceso a sus fondos usando su usuario y contraseña. Sin embargo, si olvida su contraseña, entonces los fondos se vuelven completamente inaccesibles, por lo que es muy importante que las contraseñas se guarden en un lugar seguro y/o se recuerden, sin perderlas. Educamos y motivamos a todos los usuarios a adoptar medidas de protección de alta seguridad, mediante el uso de un flujo de trabajo en nuestras aplicaciones que les permita estar tan seguros como en una entidad financiera tradicional, facilitándoles tanto estándares simples como la autenticación de dos factores, hasta la seguridad avanzada con contratos inteligentes. Utilizamos los estándares de la industria como punto de partida para la transmisión de datos encriptados, los mensajes sobre las transacciones, el almacenamiento de claves privadas, las copias de seguridad de cuentas, la accesibilidad y más.
 
 #### **6.5**	**Integración de mensajes sobre pagos en cumplimiento de la ISO 20022 **
 
- 
+
 
 Para trabajar sin interrupciones con los sistemas financieros existentes y la mensajería de pagos aceptada (o a punto de ser aceptada pronto), U.CASH ha integrado de forma nativa los estándares de mensajes sobre pagos acorde con la norma ISO 20022. En esencia, la ISO 20022 es una receta para crear estándares sobre mensajes financieros. Para llevar a cabo sus negocios, las instituciones financieras intercambian grandes cantidades de información entre ellas, así como con los clientes. Tales intercambios solo funcionan si el emisor y el receptor de un mensaje tienen una comprensión común de cómo interpretar esta información.
 
 Los procesos y las cadenas de valor en los servicios financieros a menudo cubren diferentes áreas geográficas y comerciales. La proliferación de diferentes estándares de mensajería en la industria financiera crea problemas para automatizar estas cadenas de extremo a extremo. Existen dos barreras significativas para una comprensión común de la información compartida por las personas y las computadoras involucradas en dichos procesos: el uso de una sintaxis diferente (estructura) y el uso de semánticas diferentes (significado).
 
-La adopción de los estándares de la norma ISO 20022 para la mensajería de las transacciones, tanto interna como externamente, permite a U.CASH conectarse al ecosistema financiero existente dónde y cuándo lo necesite, y permite a la plataforma U.CASH establecerse con unas características avanzadas, para la interoperabilidad futura. 
+La adopción de los estándares de la norma ISO 20022 para la mensajería de las transacciones, tanto interna como externamente, permite a U.CASH conectarse al ecosistema financiero existente dónde y cuándo lo necesite, y permite a la plataforma U.CASH establecerse con unas características avanzadas, para la interoperabilidad futura.
 
 #### **7.**	**Los servicios U.CASH**
 
@@ -270,9 +262,9 @@ Las capacidades de servicios financieros accionadas por U.CASH se clasifican en 
 
 ** **
 
-Para comenzar a usar la plataforma U.CASH, los usuarios y los convertidores primero deben cargar su cuenta con fondos. Inicialmente, nuestros "convertidores mayoristas" proveerán a los MSB y otros convertidores más pequeños, la capacidad de carga y descarga. Con el tiempo, este servicio será más descentralizado y los convertidores tratarán con otros usuarios del sistema para esta función, si eligen retirar fondos o subirlos a la plataforma U.CASH. Ellos interactuarán con aquellos que ofrecen los mejores precios, los que tienen las mejores valoraciones (de otros usuarios) y/o los que son más cercanos en distancia. Como cada convertidor puede ofrecer cualquier método de carga que desee, los usuarios tienen múltiples opciones de donde elegir. 
+Para comenzar a usar la plataforma U.CASH, los usuarios y los convertidores primero deben cargar su cuenta con fondos. Inicialmente, nuestros "convertidores mayoristas" proveerán a los MSB y otros convertidores más pequeños, la capacidad de carga y descarga. Con el tiempo, este servicio será más descentralizado y los convertidores tratarán con otros usuarios del sistema para esta función, si eligen retirar fondos o subirlos a la plataforma U.CASH. Ellos interactuarán con aquellos que ofrecen los mejores precios, los que tienen las mejores valoraciones (de otros usuarios) y/o los que son más cercanos en distancia. Como cada convertidor puede ofrecer cualquier método de carga que desee, los usuarios tienen múltiples opciones de donde elegir.
 
- 
+
 
 #### **7.2**	**Funciones de la moneda digital**
 
@@ -296,27 +288,27 @@ Nuestras habilidad de préstamos y créditos permiten a los prestamistas existen
 
 #### **7.5**	**Pago de facturas**
 
- 
+
 
 Nuestras APIs (Interfaz de programación de aplicaciones) integradas nos permiten conectarnos a procesadores de pagos, empresas que ofrecen soluciones comerciales, proveedores de tarjetas de débito y crédito, pasarelas de pago de facturas, empresas de Bitcoin y otras. Nuestro enfoque de asociación país por país permite que nuestra red de convertidores y usuarios tengan acceso a una amplia variedad de opciones y aun amplio rango de precios para cualquier grupo de servicios. El pago de facturas en nuestra plataforma permite a los usuarios que ya tienen un saldo en U.CASH pagar a muchas compañías en su región. Estos incluyen proveedores de servicios públicos, compañías de telecomunicaciones, redes de Internet/banda ancha y muchos otros. También habilitamos a los convertidores para poder proporcionar servicios en persona.
 
 #### **7.6**	**Cambio de divisas**
 
- 
+
 
 Los proveedores de cambio de divisas tradicionales pueden conectarse a la plataforma de U.CASH y ofrecer la carga y descarga en cualquier moneda de cambio extranjera que manejen y/o utilizar la plataforma para administrar todas sus transacciones minoristas de cambio de divisas. En el futuro, la plataforma U.CASH permitirá a todos los usuarios en línea retener cualquier moneda digital fiduciaria en sus saldos de U.CASH, sin temor a las costosas tarifas de cambio de divisas al cambiar diversas monedas. Esto es posible porque, a diferencia de las empresas tradicionales de cambio de divisas, U.CASH respalda cada saldo de moneda con el mismo valor en activos, utilizando el bloqueo de valor. Un nuevo contrato de bloqueo de valor es emitido cada vez que se produce una transacción.
 
 #### **7.7**	**Recarga de teléfonos móviles**
 
- 
+
 
 En muchos países, los proveedores de servicios de recarga de teléfonos móviles son pequeños minoristas con ubicaciones que proveen recargas instantáneas al número de teléfono móvil de un usuario. Como casi todos los servicios en estos países son de prepago (usted debe pagar unos minutos antes de usarlo), y esta es una necesidad esencial (casi como una utilidad) para estas poblaciones. Los proveedores de servicios de recarga móvil ya están familiarizados con la carga previa en sus propias cuentas mayoristas incluso antes de comenzar a ofrecer servicios, y U.CASH es una extensión natural (y una actualización completa) de sus sistemas ya existentes. Nuestros convertidores pueden ganar tarifas en todas las transacciones que proporcionen en persona y pueden hacerlo también en una nueva plataforma intuitiva. Los convertidores solo necesitan mantener un saldo en U.CASH para poder ofrecer este servicio. Cuando tienen fondos disponibles, los usuarios pueden convenientemente hacer recargas de minutos para sus teléfonos móviles directamente desde la aplicación.
 
- 
+
 
 #### **7.8**	**Administración de activos**
 
- 
+
 
 Nuestras innovadoras opciones de administración de activos permiten a los usuarios (y a los convertidores) acceder a Bitcoin y a otras oportunidades de crecimiento basadas en las monedas digitales. U.CASH permite a los usuarios acceder a varios fondos descentralizados de criptomonedas, a planes sistemáticos de conversión (donde cada cierto período, un contrato se ejecuta para convertir una cierta cantidad de su saldo de U.CASH en Bitcoin, al precio de mercado en ese momento), o incluso a una Oferta inicial de monedas (ICO) y tokens misceláneos. Eventualmente U.CASH integrará capacidades de intercambio de activos (más allá de Bitcoin) para convertirse en la mayor plataforma de administración de criptomonedas y cadenas articuladas o *blockchain* para usuarios (y convertidores) de todo tipo.
 
@@ -332,15 +324,15 @@ Debido a los problemas únicos que surgen a la hora de intentar bloquear el valo
 
 **Bloqueo basado en tokens** – U.CASH Inc., en asociación con los proveedores de servicios externos, ha habilitado la capacidad de almacenar tokens digitales que no están basados en cadenas articuladas y que representan monedas fiduciarias. Estos tokens digitales serán respaldados usando bonos y/o balance de divisas en cuentas donde el beneficiario será el titular de los tokens. U.CASH Inc. proporcionará la liquidez inicial de los tokens y las monedas fiduciarias a los proveedores asociados, quienes a su vez darán origen al valor del token. En este acuerdo, U.CASH Inc. se convierte en un intermediario, proporcionando a los usuarios verificados de U.CASH el acceso a un token con valor respaldado, para usar en la red.
 
- 
+
 
 #### **7.10**	 **Certificado de cadena (Notación de ****_Blockchain_****)**
 
- 
+
 
 El certificado de cadena es una nueva función que esencialmente "notariza" sus documentos o mensajes en la cadena articulada de Bitcoin, y guarda esos documentos (o mensajes) para su posterior recuperación si es necesario. Actualmente sus documentos pueden ser almacenados por usted o en nuestros servidores, si el usuario está preocupado de perder el documento original. Planificamos la descentralización del almacenamiento de estos archivos usando una versión de MaidSafe, Storj o nuestra propia aplicación, dependiendo de los beneficios y/o problemas que estamos recibiendo. Además de la "Certificación de cadena" de su documento, el acceso a nuestra red de convertidores legales también les permite a los usuarios a *notarizar* de forma tradicional sus documentos, a través de un abogado acreditado o de otro profesional legal en la localidad del usuario.
 
- 
+
 
 #### **7.11**	**Tarjetas de débito Visa**
 
@@ -348,7 +340,7 @@ El certificado de cadena es una nueva función que esencialmente "notariza" sus 
 
 Las tarjetas de débito U.CASH Visa estarán disponibles en países seleccionados cuando estemos listos para lanzar el sistema con el máximo impacto. La tarjeta de débito se podrá cargar en línea usando el saldo en U.CASH del usuario o en persona con un convertidor participante. La ventaja de tener tarjetas de débito en un sistema como U.CASH, es que se permite que la tecnología heredada y las terminales de punto de venta interactúen con una tarjeta que se pueda cargar utilizando el saldo del usuario en U.CASH. La carga solo lleva unos minutos y los usuarios pueden verificar el saldo de su tarjeta en cualquier momento iniciando una sesión en U.CASH. En cada país donde operamos, nos asociamos con proveedores de servicios financieros para ofrecer directamente servicios de tarjetas a nuestros usuarios y convertidores.
 
- 
+
 
 #### **7.12**	**Tarjeta virtual VISA **
 
@@ -356,21 +348,21 @@ Las tarjetas de débito U.CASH Visa estarán disponibles en países seleccionado
 
 La tarjeta virtual U.CASH Visa permite a los usuarios y a los convertidores usar sus saldos en U.CASH para cargar una representación digital de una tarjeta Visa y poder usarla para realizar pagos en línea y en persona con los minoristas en donde esté habilitado el pago de Visa con tecnología de comunicación de corta distancia*, NFC (Near Field Communications).* Actualmente esto solo es posible en las aplicaciones móviles de U.CASH. Esta capacidad aumenta en gran medida la utilidad de U.CASH, permitiendo a los usuarios de la red acceder a una opción de pago alternativa y poderosa construida sobre la infraestructura ya existente. Los pagos con Visa Virtual se pueden hacer en millones de tiendas en línea y minoristas en persona, y les da una cantidad ilimitada de libertad a nuestros usuarios. La capacidad de ofrecer tarjetas Visa virtuales es provista por proveedores de servicios financieros asociados tales como los procesadores de pagos y las pasarelas comerciales, que se pueden conectar y ofrecer servicios a los usuarios, aunque podrían no estar disponibles en todas las áreas.
 
- 
+
 
 #### **7.13**	**Modo convertidor**
 
- 
+
 
 Cualquier usuario puede activar el modo convertidor y comenzar a ofrecer servicios en la plataforma de U.CASH. Los niveles de verificación para los usuarios (y convertidores) como se ve en la sección "Niveles de verificación" dictarán los límites de transacción y confianza. Unos niveles mayores de verificación, combinados con una mayor retroalimentación (o *feedback*), conducirán a que más usuarios deseen realizar transacciones con ese convertidor. Cuando se activa el modo convertidor, el convertidor obtiene acceso a una amplia gama de funciones de valor añadido, incluyendo la posibilidad de publicar "anuncios" que detallan sus servicios y tarifas, un panel de control de transacciones (para ver transacciones activas e históricas con usuarios y otros convertidores) y otras posibilidades adicionales. Los convertidores pueden ofrecer transacciones en línea o en persona con múltiples métodos de pago.
 
 #### **7.14**	**Efectivo por lealtad**
 
- 
+
 
 Efectivo por lealtad es nuestro programa de puntos por lealtad.  El efectivo por lealtad es otorgado en forma de U.CASH a la cuenta del usuario y se puede ganar mediante el uso de los servicios proporcionados por los convertidores o en línea a través de la plataforma U.CASH. También puede recuperar una parte de las tarifas pagadas por el uso de la plataforma en forma de efectivo por lealtad y es similar al uso de sus saldos U.CASH, puede pagar otros servicios en el sistema, incluidos los pagos de facturas, el envío de remesas, el reembolso de préstamos, etc.
 
- 
+
 
 #### **7.15**	**Compras en línea**
 
@@ -378,15 +370,15 @@ Una de las cosas que nuestros usuarios y convertidores más nos han solicitado e
 
 #### **8.**	**Monedas y activos permitidos**
 
- 
+
 
 U.CASH tiene el objetivo de apoyar la mayor cantidad de monedas fiduciarias utilitarias, monedas digitales y activos como le sea posible. U.CASH pretende ser una plataforma universal para el movimiento y el uso de los fondos de los usuarios, pero también como un repositorio para el almacenamiento de múltiples tipos de activos digitales. Inicialmente, los principales impulsores del ecosistema serán el combustible nativo UCASH, Bitcoin, Ethereum y las principales monedas fiduciarias. Eventualmente y a medida que los convertidores estén disponibles en otros países y se realicen más integraciones en la plataforma para monedas y activos digitales alternativos, estos también impulsarán el uso de la plataforma.
 
- 
+
 
 #### **9.**	**Oferta inicial de recompensas - IBO**
 
- 
+
 
 La distribución del token UCASH se logrará utilizando un nuevo e innovador modelo. Los usuarios pueden adquirir tokens completando las recompensas establecidas por U.CASH para construir la red. U.CASH elige los diversos ganadores de recompensas (donde aplique) y administra la distribución de recompensas. Planificamos trasladar la toma de decisiones a un modelo donde la retroalimentación o el *feedback* proviene de los usuarios de la plataforma y de los titulares de UCASH. Construir un sistema para poder administrar esto, será una de muchas de estas recompensas. Los benefactores son individuos, compañías y otras organizaciones que pueden comprar recompensas directamente y, a partir de allí, hacer que U.CASH administre y complete esa recompensa utilizando sus propios recursos.
 
@@ -394,37 +386,37 @@ También hay una distribución menor que se otorga a los fundadores y al equipo 
 
 Los usuarios que se registren y verifiquen sus correos electrónicos y números de teléfono móvil podrán reclamar recompensas, así como adquirir una cantidad limitada de UCASH, usando adicionalmente BTC o ETH.  Esto estará disponible hasta el máximo de bonificación ofrecida por cada sistema de recompensa por etapa, en el período de Oferta inicial de recompensas (IBO).
 
- 
+
 
 #### **9.1**	**Período y etapas de IBO**
 
- 
+
 
 La distribución de los tokens UCASH se realizará en un período Pre-IBO de 30 días para los contribuyentes iniciales, seguido de un período IBO de 120 días para el público en general. Algunas recompensas expirarán dentro de este marco de tiempo mientras que otras estarán abiertas de forma indefinida. ¿Cómo limitamos la cantidad total de tokens UCASH pagados en el tiempo a una recompensa cuyo marco temporal es indefinido? En estos casos damos un pequeño porcentaje del total de UCASH restante, asignado esta recompensa para el que la reclama. Por ejemplo, si 100,000,000 UCASH son asignados a las recompensas de inscripción de usuario, entonces cada usuario que se registre puede obtener 0.03% del UCASH del remanente asignado como recompensa. Esto significa que el primer usuario que se registre con su dirección de correo electrónico y verifique su número de teléfono móvil, obtendrá 30,000 UCASH (100,000,000 x 0.0003). El segundo usuario sería recompensado con 29,991 UCASH (99,970,000 x 0.0003). El tercer usuario sería recompensado con 29,982.0027 UCASH (99,940,009 x 0,0003) y así sucesivamente. A este bono de recompensa decreciente, con tendencia infinita hacia 0, lo llamamos Recompensa In-Deflacionaria, debido a que con la creciente utilidad y uso de la red U.CASH, siempre valdrá la pena reclamar este premio pagado en UCASH. Las etapas de los bonos de UCASH se cambiarán cada 3 días para el período IBO de 120 días. Estos bonos disminuirán en todos los reclamos de recompensas durante cada etapa (incluso para los benefactores acreditados y los usuarios de poco tiempo que adquieran utilizando BTC y ETH). La bonificación inicial UCASH dada como recompensa estará en la parte superior de las recompensas establecidas. Este bono disminuirá en un cierto porcentaje cada 3 días hasta que el bono de recompensa sea del 0%. Todas las recompensas indefinidas se mantendrán en los montos establecidos y serán pagados con cada reclamo. Las recompensas individuales que no sean completadas en el período de IBO continuarán al monto estipulado hasta el momento en que sean reclamadas.
 
- 
+
 
 #### **10.**	**Cómo está estructurado U.CASH**
 
 El primer negocio en utilizar el ecosistema de tecnología UCASH y engendrar el sistema y su token nativo será la entidad corporativa U.CASH Inc., cuya sede principal está basada en Toronto, Canadá. El equipo fundador detrás de U.CASH ha investigado, desarrollado, desplegado, probado y dado vida a los conceptos de prueba, y ha incorporado a los primeros convertidores, socios de servicios financieros y usuarios. Nosotros en U.CASH continuamos y estructuramos nuestra organización mirando al futuro, cuando las regulaciones de los negocios de moneda virtual entren en vigor en las jurisdicciones de todo el mundo, hemos planificado cumplir con todas las reglas y regulaciones aplicables. Los miembros de nuestro equipo, habiéndose comprometido con múltiples niveles de gobierno, organismos reguladores y entidades financieras a lo largo de los años, confían en que Canadá seguirá siendo un entorno positivo para construir negocios que utilicen las innovaciones de cadenas articuladas de manera responsable. Nuestros proveedores iniciales asociados también están basados fuera de Canadá, lo que nos permite interactuar con ellos de manera eficiente en un entorno favorable para lanzar la red antes de buscar la diversificación de la estructura en múltiples jurisdicciones.
 
- 
+
 
 #### **10.1**	**Token UCASH (UCASH) **
 
- 
+
 
 El Token UCASH (UCASH) es el combustible nativo del ecosistema. Se usa para pagar servicios en transacciones minoristas, en línea y en cadenas articuladas. UCASH también se puede convertir en efectivo o en una cantidad de monedas digitales. UCASH debe ser adquirido previamente (o puede ser convertido de forma instantánea) antes de realizar transacciones en la red. Los participantes del ecosistema también aceptan UCASH a cambio de servicios. Como tal, UCASH se convierte en una forma de compensación ampliamente aceptada en la red que se utilizará a cambio de una cantidad de usos cada vez mayor o de situaciones de uso a nivel mundial.
 
 #### **10.2**	**U.CASH Inc.**
 
- 
+
 
 U.CASH Inc. es el primero entre un ecosistema de empresas, que está construyendo los fundamentos de una nueva cadena articulada habilitada para ofrecer sus propios servicios a los usuarios de la red. U.CASH Inc. se enfocará en construir servicios para el usuario final, aplicaciones, redes de conversión y ayudará a incrementar los usos o las situaciones posibles de uso del token nativo UCASH y su ecosistema. Utilizaremos el token nativo dentro de las aplicaciones para la funcionalidad del contrato inteligente, las transacciones y otros requerimientos cuando sea necesario. Los tokens se comercializarán libremente en los intercambios. Aunque otros activos digitales serán ampliamente respaldados, todas las transacciones requerirán el uso de UCASH para el acceso a la plataforma, seguridad, habilitación de contratos inteligentes y el acceso instantáneo a diversas capacidades de cadenas articuladas diferentes, conllevando al uso creciente del token UCASH. U.CASH será la primera entidad que construirá sobre el token UCASH, pero definitivamente no será la última. Como una empresa social con fines de lucro, U.CASH funcionará de una manera que beneficie al ecosistema, a sus usuarios, a los convertidores, a los accionistas y a la misión, al mismo tiempo participará en los esfuerzos globales humanitarios y sociales para ayudar al mundo. Su éxito está en sí mismo, muy ligado al token UCASH y a su ecosistema circundante. Juntos demostrarán ser un modelo que muestre las capacidades, no solo de nuestra tecnología, sino también de los tipos potenciales de servicio que pueden ser habilitados con la colaboración comunitaria y la innovación con incentivos integrados por medio de un combustible nativo.
 
 #### **11.**	**Los principales jugadores**
 
- 
+
 
 Debido al requerimiento de varias partes para garantizar el éxito de la red U.CASH, hemos desarrollado un sistema que incentiva y promueve que todas las partes por igual trabajen juntas para el beneficio de todos los involucrados. Definimos las responsabilidades y recompensas a las que cada tipo de "jugador" en nuestra red tiene acceso y cómo encajan dentro de una visión más amplia.
 
@@ -432,7 +424,7 @@ Debido al requerimiento de varias partes para garantizar el éxito de la red U.C
 
 El equipo fundador detrás de U.CASH ha investigado, desarrollado, desplegado, probado y dado vida a los conceptos de prueba, y ha incorporado a los primeros convertidores, socios de servicios financieros y usuarios. Los fundadores continuarán desempeñando un rol esencial en la red hasta el momento en que un número creciente de personas puedan asumir ciertas responsabilidades que están directamente relacionadas con el desarrollo del token UCASH nativo subyacente y la comunidad circundante. El equipo continuará creciendo y comercializando la primera aplicación (U.CASH) construida sobre la tecnología y filosofía UCASH. Traerá usuarios finales y convertidores, subirá a bordo proveedores asociados e innovará al ofrecer servicios para desbancar al mundo. Con el lanzamiento de la red U.CASH, varios miembros serán incorporados para hacer crecer a nuestro equipo, dependiendo de los requerimientos así como de las habilidades, conocimientos, experiencias y del entusiasmo.
 
- 
+
 
 **_Equipo_**
 
@@ -448,9 +440,9 @@ Sina Kachooie | Oficial de Operaciones
 
 Antoine De Vuyst | Desarrollador Senior de Cadenas Articuladas o de Bloque
 
-Dilipomi Gondhali | Desarrollador Senior Front-End 
+Dilipomi Gondhali | Desarrollador Senior Front-End
 
-Jayesh Bhagat | Desarrollador Senior Back-End 
+Jayesh Bhagat | Desarrollador Senior Back-End
 
 Arunan Sri | Desarrollo de Negocios
 
@@ -460,7 +452,7 @@ Aruran Maheswaran | Desarrollo de Negocios
 
 Nikita Borhade | Desarrollo de Software
 
- 
+
 
 **_Consejo Asesor_**
 
@@ -497,7 +489,7 @@ Emma Todd | Comunidad y Marketing
 
 Nate Wolfe | Marketing
 
-Harrison Jordan | Comunicaciones 
+Harrison Jordan | Comunicaciones
 
 Allwyn D'Souza | Seguridad de Tecnología de la Información
 
@@ -511,13 +503,13 @@ Reignier Macasaet | Distrito Capital Nacional, Papúa Nueva Guinea
 
 Anh Vo | Vietnam del Sur
 
- 
+
 
 * Más a ser anunciados, incluidos muchos más seguidores, miembros del equipo y socios
 
 #### **11.2**	**Proveedores de servicio asociados**
 
- 
+
 
 En el lanzamiento de la red U.CASH, ofreceremos servicios con un grupo limitado de proveedores asociados. Ellos habilitarán el acceso para el pago de facturas, recargas móviles, tarjetas Visa de débito y virtual, así como otros servicios para nuestros usuarios finales y convertidores. Los futuros socios proveedores se conectarán en línea para poder ofrecer funcionalidades y servicios adicionales desde sus regiones locales. Estos incluyen los procesadores de pago, los servicios de envío de remesa, los servicios de pago de facturas, las compañías de telecomunicaciones, las instituciones financieras, los negocios de servicios monetarios, los proveedores de préstamos, los intercambios de divisas digitales, los proveedores de recargas de teléfonos móviles, los portales de comercio electrónico, los sistemas de puntos de venta, el intercambio de moneda extranjera, servicios notariales, comerciantes y mucho más.
 
@@ -527,7 +519,7 @@ En el lanzamiento de la red U.CASH, ofreceremos servicios con un grupo limitado 
 
 Los convertidores son la columna vertebral física de la red U.CASH y existen en todas partes, tanto en línea como fuera de línea. Ellos proveen servicios de carga y descarga a los usuarios finales en una variedad de métodos, verifican al usuario en persona (en el caso de MSB) y otros servicios. Hay varios tipos de convertidores en la red U.CASH:
 
- 
+
 
 **1)**     **Convertidores Master **– Proveen liquidez  U.CASH a otros convertidores en áreas locales o países y también ofrecen servicios financieros. Los convertidores master serán inicialmente grandes socios comerciales de servicios monetarios y otras entidades altamente capitalizadas, pero habrá una ampliación para incluir otras instituciones financieras en los próximos meses y años.  
 
@@ -539,11 +531,11 @@ Los convertidores son la columna vertebral física de la red U.CASH y existen en
 
 **5)**     **Convertidores Móviles** – Proveerá servicios llegando a su sitio de ubicación. El convertidor móvil también podría ser un MSB, un minorista o incluso uno individual, que proporcione acceso a U.CASH.
 
- 
+
 
 #### **11.4**	**Usuarios finales**
 
- 
+
 
 Inicialmente, los usuarios de la red U.CASH serán aquellos que buscan cargar rápidamente fondos en la plataforma para poder participar en la economía de las monedas digitales. Debido a que U.CASH es la opción más rápida y económica para obtener monedas fiduciarias convertidas a monedas digitales utilizando efectivo, habrá una sólida base de usuarios interesados en ingresar a U.CASH. En la medida en que aumente el uso de las aplicaciones U.CASH y los servicios de software, los usuarios harán la transición hacia el uso de su saldo UCASH para pagar facturas o enviar y recibir dinero en todo el mundo. Inicialmente, U.CASH derivará la mayor parte del volumen de las situaciones de uso antes mencionadas, pero se diversificará a medida que se desplieguen otros servicios financieros con valor añadido.  
 
@@ -559,11 +551,11 @@ Los Embajadores de U.CASH son nuestros seguidores y creyentes alrededor del mund
 
 #### **11.6**	**Participantes de recompensas**
 
- 
+
 
 La distribución inicial de UCASH a través de la Oferta Inicial de Recompensas (IBO), permite que la mayor cantidad de personas participe de manera justa en la distribución colectiva; que será la capa primaria y el combustible de la red para asegurar el funcionamiento de la plataforma. Como UCASH es la capa primaria y el combustible de la red que acciona las transacciones y funcionalidades avanzadas, la distribución de este combustible a los primeros creyentes y seguidores ayudará a hacer crecer la red durante su infancia y promoverá su adopción incluso en las áreas más remotas del mundo. Las recompensas irán desde simples tareas de usuario, como registrarse y verificar cuentas de usuario, comercializar U.CASH a través de publicaciones en las redes sociales, hasta proyectos a gran escala que requieren mucho tiempo, como el desarrollo de productos y softwares para la red. Se necesitarán diferentes conjuntos de habilidades y recursos para hacer de U.CASH una red global verdaderamente impactante, y el modelo de IBO asegura que todos tengan una oportunidad para participar y poder beneficiarse. Además, los tokens se comercializarán libremente en los intercambios durante el período IBO lo que garantizará que los participantes iniciales obtengan bonos en comparación con los participantes posteriores.
 
- 
+
 
 **1)** 	**Cazadores de recompensas** – Estas personas (trabajadores freelance, competidores, etc.) se centrarán principalmente en reclamar tantas recompensas como sea posible. Estas recompensas podrían incluir requerimientos muy avanzados, como aplicaciones de softwares o integraciones, pero también podrían incluir marketing en redes sociales, proyectos localizados y más.
 
@@ -571,7 +563,7 @@ La distribución inicial de UCASH a través de la Oferta Inicial de Recompensas 
 
 **3)** 	**Benefactores** – Hemos proporcionado una opción para que los benefactores (individuos, empresas, patrocinadores, etc.) paguen directamente las recompensas y, a partir de ese momento, dejen que U.CASH las administre y complete, utilizando los recursos donados. Para determinar el pago de la recompensa del benefactor, hemos calculado y recibido estimaciones de los costes del mundo real para completar las recompensas y las hemos traducido a los montos correspondientes de UCASH.
 
- 
+
 
 #### **12.**	**Consorcio**
 
@@ -579,13 +571,10 @@ La distribución inicial de UCASH a través de la Oferta Inicial de Recompensas 
 
 U.CASH está creando un consorcio compuesto por varias entidades de servicios financieros que se beneficiarán de la colaboración entre industrias, las actualizaciones y capacidades tecnológicas, y el acceso a una base de usuarios completamente nueva. Estas entidades incluyen negocios de servicios monetarios (marcas minoristas y proveedores alternativos), procesadores de pagos, empresas de envío de remesas y otros proveedores de servicios tradicionales. El consorcio se unirá para proporcionar una experiencia unificada para los usuarios finales, a través de una plataforma común equipada con estándares de calidad y las mejores prácticas. Los contratos inteligentes estandarizados y las soluciones de transacción aumentarán en gran medida la capacidad de las pequeñas empresas para unirse y desarrollar una gran infraestructura en red que será superior a las proporcionadas por las grandes soluciones tradicionales centralizadas. La naturaleza global de la plataforma U.CASH combinada con la integración de múltiples activos, servicios y capacidades, significa que los MSB y otras compañías pueden interactuar directamente entre sí y proporcionar servicios de valor añadido sin la necesidad de la intermediación de terceros. El consorcio U.CASH permitirá que muchas partes puedan conectarse y unirse para ser más fuertes, como una unidad, de lo que son individualmente.
 
- 
+
 
 #### **13.**	**Conclusión**
 
 ** **
 
 U.CASH está diseñado para lograr la adopción y la usabilidad masiva desde el principio. En este documento hemos explicado las soluciones técnicas y comerciales que permiten a los usuarios finales y a otras partes, oportunidades que previamente eran imposibles, y que abren el camino para la rápida adopción de las monedas digitales y las tecnologías de cadenas articuladas o *blockchain*. Gracias a una base de fundamentación sólida, a nivel sistemático, tecnológico, económico y social; los usuarios, los convertidores y otras entidades pueden unirse para acceder o para proporcionar servicios a nivel global. Los únicos mecanismos propuestos para la distribución de recompensas del combustible nativo y del modelo de negocios en sí, son todos parte de un movimiento más grande que tendrá como consecuencia la desbancarización del mundo. Dejemos que la verdadera misión comience.
-
- 
-

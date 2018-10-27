@@ -8,21 +8,21 @@ published: true
 ---
 **UCASH**
 
-**PREZENTAREA **
+**PREZENTAREA**
 
-**UNEI FOI DE PARCURS **
+**UNEI FOI DE PARCURS**
 
-**PENTRU SERVICII **
+**PENTRU SERVICII**
 
-**FINANCIARE GLOBALE **
+**FINANCIARE GLOBALE**
 
 **DE LA EGAL LA EGAL**
 
-**Website - ****[https://u.cash](https://u.cash)
+**Website - [https://u.cash](https://u.cash)
 
-**U-CASH: O retea de servicii financiare globale de la egal la egal**
+**U.CASH: O retea de servicii financiare globale de la egal la egal**
 
-**_[https://u.cash](https://u.cash)**_ – _****_[info@u.cash](mailto:info@u.cash)
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **Rezumat.** Activitățile serviciilor financiare tradiționale s-au învechit. Modelele vechi de a face afaceri sunt înlocuite de economiile de partajare de tip de la egal la egal, responsabilizîdu-i pe utilizatorii finali și pe furnizorii individuali de servicii. Inovațiile de tip blockchain („lanţ de blocuri"), inițial introduse de către Bitcoin permit tehnologiei să joace rolul entităților centralizate tradiționale, transformând procesele interne ale băncilor și ale altor intermediari financiari într-un program de calculator care este accesibil tuturor. Fidelizarea mărcii și clienților „de-o viață” se îndreaptă către autodeterminarea financiară prin intermediul instrumentelor digitale extrem de accesibile datorită tehnologiilor de tip blockchain. Utilizatorii se îndreaptă către servicii globale care le oferă un acces fără probleme la servicii, indiferent de ,,starea lor financiară" din lume, fără inaccesibilitatea şi complicaţiile instituțiilor tradiționale. Noi numim această schimbare ,,nebancarea globală" și U.CASH este catalizatorul acestui proces în virtutea modelului său de afaceri, a tehnologiilor sale și a propunerii unice de a aduce accesul la servicii financiare tuturor.
 

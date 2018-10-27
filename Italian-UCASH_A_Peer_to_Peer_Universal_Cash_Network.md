@@ -6,15 +6,13 @@ permalink: /italian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1GL_I6kxVlHrgILg-6RXQZPrXTztEgIjmzx35XYk7rnQ
 published: true
 ---
-**  **![image alt text]({{ site.url }}/public/tRWnMDyQyPsv2961NV6TSw_img_0.png)**  **![image alt text]({{ site.url }}/public/tRWnMDyQyPsv2961NV6TSw_img_1.png)
-
 STIAMO AVVIANDO UNA "ROADMAP" PER UNA RETE GLOBALE DI SERVIZI FINANZIARI P2P
 
-**_Sito web: _****_[http://u.cash](http://u.cash)
+Sito web: [http://u.cash](http://u.cash)
 
-**U****·****CASH: Una Rete Globale di Servizi Finanziari Peer-to-Peer**
+**U·CASH: Una Rete Globale di Servizi Finanziari Peer-to-Peer**
 
-*[http://u.cash](http://www.u.cash/)* - info@u.cash*
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **Sommario.** Il settore bancario tradizionale sta diventando obsoleto. I vecchi modelli di business sono stati sostituiti da economie di condivisione peer-to-peer, che consentono agli utenti ed ai singoli fornitori di servizi di trarne maggiori benefici. Le innovazioni Blockchain, inizialmente introdotte da Bitcoin, stanno permettendo alla tecnologia di svolgere il ruolo delle entità centralizzate tradizionali, modificando i processi interni delle banche e di altri intermediari finanziari in un codice software accessibile a tutti. La fedeltà del brand e la clientela abituale si rivolgono verso una autogestione finanziaria tramite strumenti digitali facilmente accessibili grazie a tutte le tecnologie blockchain. Gli utenti si stanno rivolgendo a servizi globali che forniscono loro un accesso illimitato ai servizi a prescindere dal loro "status finanziario" nel mondo, senza le difficoltà e le inaccessibilità alle istituzioni tradizionali. Noi chiamiamo questo cambiamento di massa "the global unbanking" e U.CASH è il catalizzatore di questo processo in virtù del suo modello di business, dello spessore tecnologico e della proposta peculiare di voler aprire a chiunque l'accesso dei servizi finanziari.
 

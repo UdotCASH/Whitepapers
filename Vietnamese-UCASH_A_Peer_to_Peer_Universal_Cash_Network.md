@@ -10,9 +10,9 @@ GIỚI THIỆU LỘ TRÌNH CÁC DỊCH VỤ TÀI CHÍNH NGANG HÀNG TOÀN CẦU
 
 **Website** - **http://u.cash**
 
-**U·CASH: Mạng Lưới Các Dịch Vụ Tài Chính Ngang Hàng Toàn Cầu**
+**U.CASH: Mạng Lưới Các Dịch Vụ Tài Chính Ngang Hàng Toàn Cầu**
 
-http://u.cash - info@u.cash
+[http://u.cash](http://www.u.cash/) [info@u.cash](mailto:info@u.cash)
 
 **Khái niệm**. Giao dịch ngân hàng truyền thống giờ đây đã trở nên lỗi thời. Các mô hình kinh doanh cũ đã được thay thế bằng các phương thức chia sẻ ngang hàng làm tăng cường lượng khách hàng cũng như các nhà cung cấp dịch vụ. Việc phát minh ra Blockchain, mà khởi đầu bằng Bitcoin, đã cho phép công nghệ thay thế vai trò của các tổ chức quản lý tập trung truyền thống, cải tạo các quy trình nội bộ của hệ thống ngân hàng và các tổ chức tài chính trung gian thành các mã phần mềm ai cũng có thể được truy cập. Khái niệm trung thành với một thương hiệu hay khách hàng truyền thống đã chuyển đổi thành khái niệm tự quyết định về tài chính thông qua các công cụ kỹ thuật số hiện có nhờ các công nghệ blockchain. Người dùng giờ đây chuyển qua sử dụng các dịch vụ toàn cầu cho phép họ tiếp cận không giới hạn các dịch vụ bất kể "tình trạng tài chính" của họ mà không bị hạn chế hay cấm cản như đối với các định chế tài chính truyền thống. Chúng tôi gọi sự thay đổi to lớn này là “phi ngân hàng toàn cầu” và U.CASH là chất UCASH tác cho tiến trình này nhờ bản chất của mô hình kinh doanh của nó, nền tảng kỹ thuật và ý tưởng có một không hai là giúp mọi người được tiếp cận tới mọi dịch vụ tài chính.  
 
@@ -190,13 +190,13 @@ Các blockchains công cộng, do bản chất mở của chúng, được sử 
 
 Hợp đồng thông minh là các giao thức máy tính tạo ra, hỗ trợ, xác minh, và/hoặc bắt buộc việc đàm phán và thực hiện một hợp đồng hoặc làm vô hiệu một điều khoản hợp đồng. Hợp đồng thông minh thường mô phỏng tính logic của các điều khoản hợp đồng và như vậy có thể làm hình thức thể hiện dạng kỹ thuật số của các giao dịch thực và các tiêu chuẩn giao dịch kinh doanh chỉ xuất phát trong lĩnh vực công nghệ với các trường hợp sử dụng chưa hề có trước đây. Vấn đề (hoặc lơi thế, tùy thuộc vào cách nhìn của bạn) lớn trong các giao dịch tiền tệ kỹ thuật số là bản chất không thể thay đổi của giao dịch chuyển tiền. Nếu bạn gửi sai người (hoặc địa chỉ ví), hầu như bạn sẽ không nhận lại được số tiền đó. Các loại vấn đề như thế có thể được giảm bớt bằng cách sử dụng hợp đồng thông minh trên mỗi giao dịch. Một hợp đồng thông minh căn bản trên mạng của chúng tôi sẽ hoạt động tương tự như cách chuyển tiền qua email. Một người sử dụng bắt đầu bằng cách nhập vào các thông tin của bên nhận và số tiền gửi. Sau đó, họ đưa thêm vào một câu hỏi và câu trả lời bảo mật mà người nhận sẽ phải trả lời đúng trước khi chấp nhận khoản tiền trong ví của mình. Nếu bên nhận không nhập đúng câu trả lời trong khoảng thời gian quy định (là 72 giờ), các khoản tiền này sẽ quay trở lại người gửi. Điều này có thể thực hiện ngay, mà không cần một bên trung gian, bằng cách sử dụng hợp đồng thông minh đặc biệt. Đây chỉ là một trong nhiều khả năng sử dụng U.CASH tương tự.
 
-**6.3	Ví đa Chữ Ký** 
+**6.3	Ví đa Chữ Ký**
 
 Để thực hiện các giao dịch thương mại trên mạng U.CASH, người sử dụng bắt đầu bằng cách nạp tiền vào ví kỹ thuật số của mình. Chỉ người dùng cuối mới giữ các khóa riêng của ví. Khi bắt đầu một giao dịch trên sàn (như chuyển đổi tiền tệ kỹ thuật số, gửi tiền, làm cho các khoản thanh toán, v.v.) các khoản tiền sẽ tự động chuyển đổi thành UCASH và sau đó được nạp vào một địa chỉ ví đa chữ ký (MultiSig). U.CASH sử dụng 2 trên 3 ví đa chữ ký để giữ tiền trong quá trình chuyển tiền. 2 trên 3 địa chỉ đa chữ ký cần hai chữ ký khóa riêng để chuyển dịch các khoản tiền – cả của người sử dụng và của người nhận (hoặc bên chuyển đổi, nhà cung cấp đối tác, v.v.). Điều này đảm bảo rằng chỉ các bên liên đới vào các giao dịch mới có quyền truy cập vào các khoản tiền tại bất kỳ điểm nào. Việc kết hợp MultiSig với hợp đồng thông minh cho phép sử dụng với nhiều trường hợp tăng cường năng lực ứng dụng  trên mạng phân tán,hiệu quả và thân thiện với người dùng.
 
 **6.4	Sao Lưu Phân Tán**
 
-Bất kỳ hệ thống nào đòi hỏi người dùng giữ và bảo đảm an toàn cho tiền của mình đều phải có khả năng cung cấp các bản sao lưu cho người dùng khi thiết bị/tài khoản mất hay hư hỏng. Chúng tôi thực hiện việc này bằng cách sử dụng nhiều phương pháp, và đảm bảo các bản sao lưu được bảo mật cao. 
+Bất kỳ hệ thống nào đòi hỏi người dùng giữ và bảo đảm an toàn cho tiền của mình đều phải có khả năng cung cấp các bản sao lưu cho người dùng khi thiết bị/tài khoản mất hay hư hỏng. Chúng tôi thực hiện việc này bằng cách sử dụng nhiều phương pháp, và đảm bảo các bản sao lưu được bảo mật cao.
 
 Tất cả tập tin lưu khóa riêng của người dùng đều được mã hóa bằng mật khẩu của họ trước khi rời khỏi máy tính hoặc thiết bị của họ. Mã hóa được thực hiện bên phía đối tác bằng cách sử dụng Javascript bảo vệ thâm nhập máy chủ. Ngoài việc lưu trữ cục bộ trên máy tính hoặc thiết bị của bạn, sẽ có một ví mã hóa cho người dùng được tự động đồng bộ hóa với máy chủ của U.CASH (hoặc dịch vụ lưu trữ phân tán) giữ an toàn trong trường hợp mất dữ liệu.
 
@@ -230,7 +230,7 @@ Tính chất toàn cầu của nền tảng U.CASH cho phép người sử dụn
 
 Gửi tiền giữa các người dùng với nhau sẽ cần có số điện thoại (và/hoặc địa chỉ e-mail) cũng như mật khẩu sử dụng 1 lần. Thanh toán được thực hiện qua giao dịch hỗ trợ bằng hợp đồng thông minh. Người gửi phải đặt câu hỏi và câu trả lời cùng với các thông tin của người nhận. Các khoản tiền bấy giờ sẽ được gửi đến hợp đồng thông minh hoạt động như một nơi ký quỹ. Người nhận phải chấp nhận thanh toán và nhập vào câu trả lời đúng cho câu hỏi. Khi đó tiền sẽ được giải phóng khỏi ký quỹ chuyển vào tài khoản của họ. Người gửi được thông báo rằng các khoản thanh toán được hoàn tất. Nếu các khoản tiền ký quỹ vẫn chưa có người nhận trong 72 giờ, nó sẽ được hoàn trả cho người gửi bằng cách sử dụng một loại Xác nhận thời gian lưu giữ (CheckLockTimeVerify - LTV) có chức năng như ở Bitcoin hoặc phương pháp tương tự như vậy ở các blockchain khác. Thời gian hết hạn cho các giao dịch cũng có thể được tùy chỉnh bởi người gửi. Các hợp đồng thông minh được tạo ra để đảm bảo an toàn hơn cho người dùng sử dụng nền tảng của chúng tôi và cho phép kiểm tra và cân đối khi gửi hoặc nhận tiền.
 
-**7.4	Cho Vay & Tín dụng** 
+**7.4	Cho Vay & Tín dụng**
 
 Năng lực cho vay & cấp tín dụng của chúng tôi cho phép người cho vay hiện nay, chẳng hạn như các nhà cung cấp khoản vay kỳ hạn, công ty cho vay theo ngày, các sàn cho vay cũng như những dịch vụ cho vay truyền thống cạnh tranh với nhau để chào các khoản vay cho người dùng khác trên nền tảng U.CASH. Sau khi nhận được đăng ký vay tiền, các chi tiết cơ bản yêu cầu vay được chia sẻ với các nhà cung cấp dịch vụ cho vay tại địa phương (đại lý chuyển đổi cung cấp các khoản vay của chúng tôi), và họ có thể chọn có cung cấp các khoản vay cho người sử dụng hay không, tùy thuộc vào các yêu cầu bên vay. Người cho vay (người chuyển đổi) và người vay (người dùng) sẽ giao dịch trực tiếp với nhau, nhưng các khoản vay được quản lý trên nền tảng U.CASH.
 
@@ -242,7 +242,7 @@ Giao diện Chương trình Ứng dụng tích hợp (API) của chúng tôi cho
 
 Các đơn vị cung cấp giao dịch ngoại hối truyền thống có thể kết nối vào nền tảng U.CASH để chào dịch vụ nạp/rút bất cứ loại ngoại hối nào họ cung cấp và/hoặc sử dụng nền tảng này để quản lý tất cả các giao dịch ngoại hối lẻ của họ. Trong tương lai, nền tảng U.CASH sẽ cho phép tất cả người dùng trực tuyến giữ bất kỳ tiền pháp định kỹ thuật số nào trên tài khoản U.CASH mà không sợ tốn lệ phí chuyển đổi ngoại hối giữa các loại tiền. Điều này có thể thực hiện, vì không như các công ty giao dịch ngoại hối truyền thống, U.CASH đảm bảo số dư mỗi loại tiền với cùng một giá trị tài sản bằng cách sử dụng duy trì giá trị. Một hợp đồng duy trì giá trị mới được phát hành mỗi khi có một thương vụ diễn ra.
 
-**7.7	Nạp Tiền điện Thoại Di động** 
+**7.7	Nạp Tiền điện Thoại Di động**
 
 Ở nhiều quốc gia các nhà cung cấp dịch vụ nạp tiền điện thoại di động (hoặc nạp tiền, top-up, vv) là các nhà bán lẻ ở nơi mà có thể ngay lập tức nạp tiền vào số điện thoại của người dùng. Do hầu như tất cả các dịch vụ di động ở các quốc gia này là trả trước (bạn phải trả tiền cho các phút trước khi sử dụng), thì đây sẽ là một nhu cầu thiết yếu (gần giống như một tiện ích) cho dân chúng. Các nhà cung cấp dịch vụ nạp tiền điện thoại di động đã quen với việc nạp trước tiền vào các tài khoản chính của họ để cung cấp dịch vụ, nên U.CASH lúc này sẽ là việc mở rộng tự nhiên (và nâng cấp toàn bộ) hệ thống hiện tại của họ. Các đại lý chuyển đổi của chúng tôi có thể kiếm được khoản phí trên tất cả các giao dịch họ cung cấp trực tiếp cũng như trên một nền tảng cụ thể mới. Đại lý chuyển đổi chỉ cần có số dư tài khoản U.CASH để cung cấp dịch vụ này. Người dùng có thể nạp phí cho các phút dùng điện thoại di động của mình rất  thuận tiện ngay từ ứng dụng của họ khi có sẵn tiền.
 
@@ -254,7 +254,7 @@ Các tùy chọn quản lý tài sản sáng tạo của chúng tôi cho phép n
 
 Do có các vấn đề mà chỉ phát sinh từ việc phải duy trì giá trị ví kỹ thuật số cho người sử dụng trong khi không cần phải nắm giữ lượng tiền pháp định tương ứng trong tài khoản ngân hàng, chúng tôi đã phát triển nhiều chiến lược với mức chi phí và khả năng khác nhau để cung cấp trên mạng của chúng tôi. Chúng tôi thực hiện Duy trì Giá trị thông qua phương thức hợp đồng thông minh, phương thức của U.CASH và phương thức token để đảm bảo an ninh, đầy đủ cho khách hàng, cũng như các tùy chọn dựa trên mức độ xác minh của họ.
 
-**Duy trì giá trị phương thức hợp đồng thông minh** – Duy trì giá trị bằng hợp đồng thông minh có thể được mô tả tốt nhất bằng một câu trả lời mang tính công nghệ đơn giản, và thông qua các ví dụ. Duy trì giá trị bằng phương thức hợp đồng thông minh là một hình thức cập nhật ghi nhận tự động cho các ví đa chữ ký lưu giữ số dư tiền kỹ thuật số (ví dụ như Bitcoin) tương ứng với giá trị tiền pháp định trên U.CASH (là USD, CAD, EUR, INR, vv) mà người dùng của U.CASH có. Các nhà cung cấp dịch vụ thanh khoản đảm bảo các khoản tiền bằng các hợp đồng trong thế giới thực, ký với U.CASH Inc và người dùng của mình, và U.CASH cho phép các nhà cung cấp này tham gia vào tiến trình tăng giá trị lâu dài của các loại tiền kỹ thuật số, mà không chịu rủi ro phải tự giữ chúng. Hàng trăm ngàn ví được duy trì cho nhiều cặp tiền tệ (bất cứ thứ tiền nào trên hành tinh mà người dùng muốn), cũng như phối hợp với các loại tài sản khác để thực hiện việc duy trì giá trị (và giải phóng giá trị) cho người dùng & đơn vị chuyển đổi. Một môi trường an toàn được đảm bảo bằng hợp đồng thông minh sẽ duy trì giá trị các số dư trên U.CASH và đảm bảo rằng những đơn vị chuyển đổi, người dùng, nhà cung cấp dịch vụ thanh khoản và các bên liên quan khác được trực tiếp truy nhập an toàn vào số token pháp định kỹ thuật số cũng như các tài sản đảm bảo kỹ thuật số. 
+**Duy trì giá trị phương thức hợp đồng thông minh** – Duy trì giá trị bằng hợp đồng thông minh có thể được mô tả tốt nhất bằng một câu trả lời mang tính công nghệ đơn giản, và thông qua các ví dụ. Duy trì giá trị bằng phương thức hợp đồng thông minh là một hình thức cập nhật ghi nhận tự động cho các ví đa chữ ký lưu giữ số dư tiền kỹ thuật số (ví dụ như Bitcoin) tương ứng với giá trị tiền pháp định trên U.CASH (là USD, CAD, EUR, INR, vv) mà người dùng của U.CASH có. Các nhà cung cấp dịch vụ thanh khoản đảm bảo các khoản tiền bằng các hợp đồng trong thế giới thực, ký với U.CASH Inc và người dùng của mình, và U.CASH cho phép các nhà cung cấp này tham gia vào tiến trình tăng giá trị lâu dài của các loại tiền kỹ thuật số, mà không chịu rủi ro phải tự giữ chúng. Hàng trăm ngàn ví được duy trì cho nhiều cặp tiền tệ (bất cứ thứ tiền nào trên hành tinh mà người dùng muốn), cũng như phối hợp với các loại tài sản khác để thực hiện việc duy trì giá trị (và giải phóng giá trị) cho người dùng & đơn vị chuyển đổi. Một môi trường an toàn được đảm bảo bằng hợp đồng thông minh sẽ duy trì giá trị các số dư trên U.CASH và đảm bảo rằng những đơn vị chuyển đổi, người dùng, nhà cung cấp dịch vụ thanh khoản và các bên liên quan khác được trực tiếp truy nhập an toàn vào số token pháp định kỹ thuật số cũng như các tài sản đảm bảo kỹ thuật số.
 
 **Phương thức Duy trì giá trị của U.CASH** - U.CASH sẽ tham gia vào việc mua & bán các tài sản kỹ thuật số khác cũng như giữ các số dư trên mạng giao dịch đối tác của mình để cung cấp một phần việc duy trì giá trị cho một số người dùng. Những người dùng này phải được đánh giá uy tín mức độ cao, các doanh nghiệp hoặc các tổ chức lớn, và cũng chỉ có thể sử dụng dịch vụ này sau một quá trình xác minh.
 
@@ -334,7 +334,7 @@ Sina Kachooie | Giám đốc vận hành
 
 Antoine De Vuyst | Phụ trách Phát triển Blockchain
 
-Dilipomi Gondhali | Phụ trách Phát triển Giai đoạn đầu 
+Dilipomi Gondhali | Phụ trách Phát triển Giai đoạn đầu
 
 Jayesh Bhagat | Phụ trách Phát triển Giai đoạn sau
 
@@ -384,7 +384,7 @@ Nate Wolfe | Tiếp thị
 
 Harrison Jordan | Truyền thông
 
-Allwyn D'Souza | An ninh IT 
+Allwyn D'Souza | An ninh IT
 
 Harry Kaczka | Các dịch vụ khác
 
@@ -451,4 +451,3 @@ U.CASH đang thành lập một tập đoàn bao gồm các tổ chức dịch v
 **13.	Kết Luận**
 
 U.CASH được xây dựng để đạt được sự chấp nhận và sử dụng của công chúng ngay từ khi mới ra đời. Trong bản cáo bạch này, chúng tôi đã giải thích các giải pháp kỹ thuật và thương mại cho người dùng và các đối tác của mình các cơ hội trước đây không thể có, và mở đường cho việc áp dụng nhanh chóng tiền kỹ thuật số và các công nghệ blockchain. Được trang bị nền tảng kinh tế, công nghệ vững chắc, có tính xã hội và hệ thống, người sử dụng, các đơn vị chuyển đổi và các tổ chức khác có thể cùng nhau truy cập hoặc cung cấp dịch vụ trên quy mô toàn cầu. Các cơ chế độc đáo về phân phối thưởng token UCASH nguồn, và bản thân mô hình kinh doanh đều là các phần của động lực mạnh mẽ cho sự nghiệp phi ngân hàng trên thế giới. Hãy để sứ mệnh này thực sự bắt đầu.
-

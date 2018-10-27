@@ -2,17 +2,15 @@
 title: Hindi- UCASH: A Peer-to-Peer Universal Cash Network
 layout: whitepaper
 author: ucash community
-permalink: /hindi--u·cash:-peer-to-peer-universal-cash-network/
+permalink: /hindi-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 10wtpik7_y4UwSo9QY523nyWI_1zFGjCIEYFewbc-EHc
 published: true
 ---
-![image alt text]({{ site.url }}/public/EqAfHm4sKhc9o6EWcUVuA_img_0.png)![image alt text]({{ site.url }}/public/EqAfHm4sKhc9o6EWcUVuA_img_1.png)
-
 वैश्विक पी 2 पी वित्तीय सेवाओं के लिए एक रोडमैप का परिचय
 
-**_Website - _****_[http://u.cas_**h](http://u.cash)
+**Website - [http://u.cash](http://u.cash)**
 
-**यु. कैश****: ****एक**** ****पीयर****-****टू****-****पीयर**** ****वैश्विक**** ****वित्तीय सेवा**** ****नेटवर्क**
+**यु. कैश: एक ीयर ट-पीयर वैश्विक वित्तीय सेव नेटवर्क**
 
 <table>
   <tr>
