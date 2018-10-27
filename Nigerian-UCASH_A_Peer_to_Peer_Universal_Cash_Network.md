@@ -10,13 +10,13 @@ Nkọwa atụmatụ
 
  U.CASH maka ihe
 
- gbasara akụ n'ụba 
+ gbasara akụ n'ụba
 
-nke ndi ọgbọ na mba 
+nke ndi ọgbọ na mba
 
 ụwa
 
-	**_webusayitị_**** ****_- _****_[http://u.cas_**h](http://u.cash)
+	**_webusayitị_**** ****_- _****_[http://u.cash](http://u.cash)
 
 **U****·****CASH: **ọrụ akụ n'ụba nke ndi ọgbọ na mba ụwa
 
@@ -30,25 +30,25 @@ N'iji ezi ahụmahụ na data zuru ụwa ọnụ, kwadoro site na nkwurịta okw
 
 Tebulu ọdịnaya
 
-1.	 Ozi U.CASH 
+1.	 Ozi U.CASH
 
-2.	 Ọhụụ maka Ego Ụwa Na-ahụ Maka Ọdịnihu 
+2.	 Ọhụụ maka Ego Ụwa Na-ahụ Maka Ọdịnihu
 
-3.	 Ihe ịma aka nke ahịa ahia ego 
+3.	 Ihe ịma aka nke ahịa ahia ego
 
-3.1 	Ịba ụba ala nke Ụlọ akụ Banyere Omenala 
+3.1 	Ịba ụba ala nke Ụlọ akụ Banyere Omenala
 
-4. 	Gịnị bụ U.CASH 
+4. 	Gịnị bụ U.CASH
 
-5.	 Ihe na - eme U.CASH ọrụ 
+5.	 Ihe na - eme U.CASH ọrụ
 
-5.1 	Gini mere Blockchains na - abụghị Ngwọta nke Njikọ 
+5.1 	Gini mere Blockchains na - abụghị Ngwọta nke Njikọ
 
-5.2 	Ihe niile Blockcheni gụnyere, ọ bụghị naanị ERC20 ma ọ bụ onyinye 
+5.2 	Ihe niile Blockcheni gụnyere, ọ bụghị naanị ERC20 ma ọ bụ onyinye
 
 6. 	 Ụgbụrụ U.CASH ojiri tinye Blockcheni
 
-6.1 	 Iwu Ntuziaka 
+6.1 	 Iwu Ntuziaka
 
 6.2 	 Njirimara Nkwekọrịta mara mma
 
@@ -56,17 +56,17 @@ Tebulu ọdịnaya
 
 6.4 	 Ndabere gbasara agbasa
 
-6.5 	 Ezigbo ISO 20022 Na-emezigharị Ịkwụ Ụgwọ Izi ozi 
+6.5 	 Ezigbo ISO 20022 Na-emezigharị Ịkwụ Ụgwọ Izi ozi
 
 7. 	 Ọrụ U.CASH
 
 7.1	Ibuba na iwepu ego
 
-7.2 	Ọrụ Ngwaahịa Ntanetị 
+7.2 	Ọrụ Ngwaahịa Ntanetị
 
-7.3 	Zipu ma nweta ego 
+7.3 	Zipu ma nweta ego
 
-7.4 	Efu na Ebe E Si Nweta 
+7.4 	Efu na Ebe E Si Nweta
 
 7.5 	ịkwụ ụgwọ
 
@@ -80,21 +80,21 @@ Tebulu ọdịnaya
 
 7.10 	Nkwado chain (Blockcheni Notarization)
 
-7.11 	Kaadị Debit Visa 
+7.11 	Kaadị Debit Visa
 
 7.12 	Kaadị Visa na-anaghị ahu anya
 
 7.13 	Onodu Ntugharị
 
-7.14 	Iguzosi Ike n'Ihe Ego 
+7.14 	Iguzosi Ike n'Ihe Ego
 
-7.15 	Ịzụ ahịa Ịntanetị 
+7.15 	Ịzụ ahịa Ịntanetị
 
-8. 	Ego na ihe onwunwe akwadoro 
+8. 	Ego na ihe onwunwe akwadoro
 
 9. 	Onyinye ntinye nke Mbụ
 
-9.1	Oge onyinye ntinye mbụ na Ọnọdụ 
+9.1	Oge onyinye ntinye mbụ na Ọnọdụ
 
 10. 	Otu esiri ruo U.CASH
 
@@ -102,23 +102,23 @@ Tebulu ọdịnaya
 
 10.2	U.CASH Inc.
 
-11. 	Ndị isi U.CASH 
+11. 	Ndị isi U.CASH
 
-11.1 	Ndi otu U.CASH 
+11.1 	Ndi otu U.CASH
 
-11.2 	Ndị na-enye ọrụ na ndị mmekọ 
+11.2 	Ndị na-enye ọrụ na ndị mmekọ
 
-11.3 	Ndị na-atụgharị 
+11.3 	Ndị na-atụgharị
 
 11.4 	Ndi ahia ikpkeazụ
 
-11.5	Ndị nnọchiteanya 
+11.5	Ndị nnọchiteanya
 
 11.6 	Ndi mmadu
 
 12. 	Otu
 
-13. 	Mmechi 
+13. 	Mmechi
 
 **1. 	Ọhụụ U.CASH**
 
@@ -597,4 +597,3 @@ U.CASH na-ekepụta otu ụlọ ọrụ gụnyere ụlọ ọrụ ego dị iche 
 **12. 	Mmechi**
 
 U. CASH ka ewuru iji mezuo mkpocha nke ọma na ikike iji mee ihe. N'akwụkwọ a, anyị akọwawo ngwọta ndị ọrụ ntanetị na ahịa nke na-enye ndị ọrụ njedebe na ndị ọzọ ndị ọzọ na-enweghi ike ịnweta ohere, ma meghee ụzọ maka ngwa ngwa nke ego dijitalụ na nkà na ụzụ blockchain. N'iji usoro nkwuputa, nyocha na nkà na ụzụ, nke akụ na ụba na nke ọha na eze, ndị ọrụ, ndị ntụgharị na ndị ọzọ nwere ike ijikọ ọnụ iji nweta ma ọ bụ nye ọrụ na ọnụ ọgụgụ zuru ụwa ọnụ. Usoro ihe di iche iche a choro iji nye ndi mmadu ihe ndi ozo, na ihe omuma ahia bu akụkụ nile nke oru karia nke ga eme ka ndi mmadu ghara ichota uwa. Ka ezi ozi ahụ malite.
-

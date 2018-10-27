@@ -6,18 +6,18 @@ permalink: /indonesian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 16w3ehjQFWng8Bw_5EPXG5A8jHGC4Tw_C7D-GqNf6aTE
 published: true
 ---
-MEMPERKENALKAN RENCANA U.CASH UNTUK LAYANAN KEUANGAN 
-GLOBAL P2P 
+MEMPERKENALKAN RENCANA U.CASH UNTUK LAYANAN KEUANGAN
+GLOBAL P2P
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 **_Website - _****_http://u.cash_**
 
@@ -59,7 +59,7 @@ Layanan perbankan tradisional memiliki banyak masalah dalam membatasi penggunaan
 
 Kemampuan entitas kecil untuk menyediakan layanan keuangan secara historis telah terhambat oleh biaya penerapan, peraturan dan perawatan yang tinggi, solusi hak milik, API sumber tertutup, dan fakta bahwa keamanan, kepatuhan dan keandalan yang tepat bergantung pada modul perangkat keras dan perangkat lunak yang mahal. Semua faktor ini menyebabkan tingginya biaya transaksi, ketidakmampuan untuk beroperasi antar entitas keuangan dan prosedur dan penundaan sistem yang kompleks. Ini berarti kesulitan besar dalam melayani pasar berpenghasilan rendah dan berpenghasilan rendah dan ketidakmampuan untuk menyediakan layanan keuangan global yang sepenuhnya dapat diakses sepenuhnya.
 
-U.CASH memecahkan masalah ini dengan menyediakan pengguna dan penyedia layanan platform untuk pengelolaan uang dan setara kas digital (Universal Cash), yang mencakup semua modul yang diperlukan untuk sebuah *unbank* termasuk kontrak cerdas, aplikasi mobile dan online terdistribusi, dan infrastruktur keamanan kelas bank. U.CASH memasangkan teknologi ini dengan jaringan ritel konverter yang memberi pengguna sarana untuk memuat dan mengeluarkan dana dari dompet digital mereka. Kas Universal ini kemudian dapat digunakan untuk banyak layanan keuangan tradisional seperti pembayaran tagihan, pengiriman dana, pengisian ulang pulsa, pembayaran pinjaman, kartu prabayar dan lain-lain. Akses ke platform ini tersedia bagi siapa saja yang memiliki koneksi internet dan pengguna sendiri dapat menjadi konverter dan menawarkan akses lain ke jaringan U.CASH. 
+U.CASH memecahkan masalah ini dengan menyediakan pengguna dan penyedia layanan platform untuk pengelolaan uang dan setara kas digital (Universal Cash), yang mencakup semua modul yang diperlukan untuk sebuah *unbank* termasuk kontrak cerdas, aplikasi mobile dan online terdistribusi, dan infrastruktur keamanan kelas bank. U.CASH memasangkan teknologi ini dengan jaringan ritel konverter yang memberi pengguna sarana untuk memuat dan mengeluarkan dana dari dompet digital mereka. Kas Universal ini kemudian dapat digunakan untuk banyak layanan keuangan tradisional seperti pembayaran tagihan, pengiriman dana, pengisian ulang pulsa, pembayaran pinjaman, kartu prabayar dan lain-lain. Akses ke platform ini tersedia bagi siapa saja yang memiliki koneksi internet dan pengguna sendiri dapat menjadi konverter dan menawarkan akses lain ke jaringan U.CASH.
 
 **3.1	Penetrasi Rendah Sistem Perbankan Tradisional**
 
@@ -195,7 +195,7 @@ Kartu debit visa U.CASH akan tersedia di negara-negara tertentu saat kami siap m
 
 **7.12****	****Kartu Visa Virtual**
 
-Kartu Visa Virtual U.CASH memungkinkan pengguna & konverter menggunakan saldo U.CASH mereka untuk memuat representasi digital kartu Visa dan menggunakannya untuk 
+Kartu Visa Virtual U.CASH memungkinkan pengguna & konverter menggunakan saldo U.CASH mereka untuk memuat representasi digital kartu Visa dan menggunakannya untuk
 
 pembayaran online dan orang yang dapat diakses oleh Visa NFC (Near Field Communications) diaktifkan di peritel. Ini saat ini hanya mungkin dilakukan di aplikasi seluler U.CASH. Kemampuan ini sangat meningkatkan kegunaan U.CASH dengan memungkinkan pengguna jaringan mengakses opsi pembayaran tambahan yang kuat yang dibangun di atas infrastruktur yang ada. Pembayaran Virtual Visa dapat dilakukan pada jutaan peritel online dan per orang dan memberi akses kebebasan dalam jumlah yang tidak terbatas kepada pengguna kami. Kekuatan untuk menawarkan Virtual Visas disediakan oleh penyedia layanan keuangan mitra seperti prosesor pembayaran dan pintu masuk pedagang yang dapat *plug-in* dan menawarkan layanan kepada pengguna namun mungkin tidak tersedia di semua area.
 
@@ -373,4 +373,3 @@ U.CASH menciptakan konsorsium yang terdiri dari berbagai entitas layanan keuanga
 **13.	Kesimpulan**
 
 U.CASH dibangun untuk mencapai adopsi massal dan kegunaan langsung dari jalannya. Dalam tulisan ini kami telah menjelaskan solusi teknis dan bisnis yang memberi pengguna akhir dan pihak lain peluang yang tidak mungkin sebelumnya, dan membuka jalan untuk adopsi mata uang digital dan teknologi blockchain yang cepat. Dengan adanya lapisan dasar, pengguna, konverter, dan entitas yang sistemik, teknologis, ekonomis, dan sosial, dapat berkumpul untuk mengakses atau menyediakan layanan dalam skala global. Mekanisme unik yang diusulkan untuk distribusi muatan bahan bakar asli, dan model bisnis itu sendiri adalah bagian dari gerakan yang lebih besar yang akan membawa *unbanking* ke dunia. Biarkan misi sejati dimulai.
-

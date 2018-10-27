@@ -10,9 +10,9 @@ published: true
 
 **MEMPERKENALKAN RENCANA U.CASH UNTUK LAYANAN KEUANGAN GLOBAL P2P**
 
-**Website - ****[http://u.cas**h](http://u.cash)
+**Website - ****[http://u.cash](http://u.cash)
 
-**U · CASH: Jajaring Layanan Keuangan Peer-to-Peer Global**
+**UCASH: Jajaring Layanan Keuangan Peer-to-Peer Global**
 
 **http://u.cash - info@u.cash**
 
@@ -130,9 +130,9 @@ Sistem kauangan mémang kedah dinamis jeung proaktip sarta hormat kalayan pasara
 
 U.CASH diwangun salaku hiji pangmuka ékosistem jeung lapisan transaksi kanggo ékosistem kauangan global anu bener. Salaku "alat masarakat" anu bisa diaksés ku saha waé, sarta janten hiji cara kanggo meunangkeun panghasilan tur layanan keur pamaké, U.CASH dijieun kanggo ngaberdayakeun sarta ngarobah pola pikir nalika nyadiakeun kauangan pikeun sakabéh.
 
-**3. Tangtangan Pasar Kauangan Tradisional** 
+**3. Tangtangan Pasar Kauangan Tradisional**
 
-Jasa perbankan tradisional loba masalah dina ngawatesan pamakéan sarta pertumbuhan maranéhanana di pasar anu anyar jeung pasar anu berjalan. Pangabisa maranéhna terus berkurang pikeun adaptasi jeung kaperluan masarakat anu ngembang pesat jeung calakan kana téhnologi. 
+Jasa perbankan tradisional loba masalah dina ngawatesan pamakéan sarta pertumbuhan maranéhanana di pasar anu anyar jeung pasar anu berjalan. Pangabisa maranéhna terus berkurang pikeun adaptasi jeung kaperluan masarakat anu ngembang pesat jeung calakan kana téhnologi.
 
 Kamampuh lembaga leutik nyadiakeun layanan kauangan geus sajarahna geus ngarembet ku lihirna biaya palaksanaan, régulasi jeung perawatan, solusi hak paten, API nu sumberna tertutup, sarta kanyataan yen kaamanan, pangminuhan jeung reliabilitas gumantung kana modul hardware jeung software anu mahal. Sadaya faktor ieu ngakibatkeun waragad urus anu luhur, teu mampuh pikeun jalan antar Lembaga kauangan, sarta sistim luas tur pabeulit jeung katelatannana. Hartina, ieu téh kasusah hébat dina ngalayanan nu panghasilan na lemah,  pasar-panghasilan lemah jeung henteu mampuh nyadiakeun layanan kauangan global anu bias diakses ku sasaha sapenuhna.
 
@@ -160,7 +160,7 @@ U.CASH dirojong ngagunakeun kombinasi mata uang dijital, escrow multi-signature,
 
 Pamakéan sadayana bentuk blockchain anu ampuh kanggo ngawangun U.CASH nyaéta putusan mutlak sanggeus sababaraha taun panalungtikan, ngembangkeun jeung nguji. Blockchain umum ayeuna nu keur diproduksi nyaéta usaha pikeun sagala hal keur sagala jenis pamaké, sarta ku kituna kabeh ngalaman sababaraha hahalang masing-masing. Mandat maranéhna salaku lapisan téhnologi dasar keur ngawangun aplikasi tur usaha lianna nyatakeun yen jalur pangembangan jeung strategi maranéhanana disiapkeun pikeun nerapkeun saloba kasus mungkin tina pamakéan. Gantina, urang perlu ngatur sacara husus kapinteran sarta kamampuhan infrastruktur blockchain urang nu husus nargétkeun jasa kauangan. Ieu ngawengku kontrak-pinter husus nu nyarupakeun bank tradisional jeung ékosistem sakurilingna. Kami yakin unggal blockchain miboga kaunggulan sorangan kayaning waragad transaksi nu mirah, kamampuhan Ecological, sarta ékosistem unik tina pamaké sarta palayanan.
 
-Téhnologi Blockchain téh bisa nawarkeun layanan nu bisa diakses ti mana waé jeung modél bisnis non-custodial nu ngamungkinkeun urang pikeun nyieun kerangka sarta layanan nu efisien, ngurangan gesekan pikeun ngembangkeun sarta ngalayanan pamaké jasa kami. Panumbuhan U.CASH kapayunna bakal janten saingan serius pikeun bank tradisional jeung kalawan éta, miharep pikeun lalawanan jeung sistem kauangan nu aya. Nerapkeun solusi agnostik blockchain ogé solusi inklusif nyaéta pangnyebaran hasil dina bentuk jeung etos kauangan anu ngondang partisipasi sarta katerlibatan stakeholder ti nu rupa-rupa ékosistem Blockchain. Téhnologi Blockchain nyaéeta alat pangkuatna nu urang gaduh di jaman kiwari kanggo ngawangun bisnis nu katingalna teu paruguh, tapi ngabalukarkeun aksés keur saréréa. 
+Téhnologi Blockchain téh bisa nawarkeun layanan nu bisa diakses ti mana waé jeung modél bisnis non-custodial nu ngamungkinkeun urang pikeun nyieun kerangka sarta layanan nu efisien, ngurangan gesekan pikeun ngembangkeun sarta ngalayanan pamaké jasa kami. Panumbuhan U.CASH kapayunna bakal janten saingan serius pikeun bank tradisional jeung kalawan éta, miharep pikeun lalawanan jeung sistem kauangan nu aya. Nerapkeun solusi agnostik blockchain ogé solusi inklusif nyaéta pangnyebaran hasil dina bentuk jeung etos kauangan anu ngondang partisipasi sarta katerlibatan stakeholder ti nu rupa-rupa ékosistem Blockchain. Téhnologi Blockchain nyaéeta alat pangkuatna nu urang gaduh di jaman kiwari kanggo ngawangun bisnis nu katingalna teu paruguh, tapi ngabalukarkeun aksés keur saréréa.
 
 ** ****5.2 ****Sagala rupa Blockchains, Teu saukur token ERC20 atanapi Counterparty**
 Saparantos nguji sarta ngamekarkeun solusi nu dumasar kana protokol Counterparty & koin berwarna on blockchain Bitcoin sarta ngagunakeun standar ERC20 token dirojong ku blockchain Ethereum, urang langsung manggihan watesan jeung masalah. Kurangna kamampuh kontrak-pinter canggih di blockchain Bitcoin (sanajan sababaraha usulan jeung pangembangan RSK ngajangjikeun) jeung mahalna waragad pakait gerakan koin warna (ku sabab yén eta téh transaksi Bitcoin aslina) janten alesan utama nu matak kami ngamimitian ngalanglang lingkungan Ethereum. Panalungtikan kami, sarta pangembangan salajengna ku Ethereum dipeungpeuk ku teu kaluyuan kayakinan jeung nilai. Ethereum usaha muaskeun sagala bisnis, gagasan, jalma jeung misi. Jalan pangembangan Ethereum, kaasup pangrobahan ka na hasil pataruhan, sarta modél pangalolaan téh sabalikna ti sarat U.CASH pikeun wadah umum tanpa ngagunakeun bank anu kuat, aman tur canggih sacara téknologi.
@@ -199,7 +199,7 @@ Sadaya berkas konci pribadi pamaké dipakéan énkripsi dina sandina saméméh n
 
 Supados bisa digawékeun teterusan kalawan sistem kauangan nu aya jeung panyatetan pangmayaran anu ditampi (atawa bakal geura ditampi), U.CASH geus miboga standar olahtalatah kauangan terpadu nu luyu jeung ISO 20022. Intina, ISO 20022 nyaéta resep pikeun nyieun standar olahtalatah kauangan. Pikeun ngajalankeun usaha maranéhanana, lembaga keuangan patukeur inpormasi anu luar biasa ageungna antara maranéhna sarta jeung konsumén. Patukeuran sakumaha eta ukur aya lamun pangirim jeung panarima inpormasi miboga pamahaman sarua keur naksir éta inpormasi. Prosés jeung nilai ranté dina layanan kauangan mindeng ngawengku rupa-rupa wewengkon géografis jeung usaha. Pamekaran béda-béda standar olahtalatah dina industri kauangan nyiptakeun masalah dina otomatisasi rantay tungtung-to-tungtung ieu. Dua halangan penting nyaéta kana pamahaman umum inpormasi dicekel ku jalma jeung komputer nu aub dina prosés saperti: pamakéan béda rumpaka (struktur) jeung pamakéan semantik (hartina). Ku ngalaksanakeun standar ISO 20022 pikeun olahtalatah transaksi, duanana, yén internal tur eksternal ngidinan U.CASH pikeun nyambungkeun kana ekosistem kauangan nu aya dimana wae jeung iraha wae diperlukeun, sarta nyiapkeun wadah/alat U.CASH pikeun mekarkeun kacanggihan kamampuan pamakéan antar alat minangka kapayun.
 
-**7. Layanan U.CASH** 
+**7. Layanan U.CASH**
 
 Software U.CASH ngamungkinkeun panyadia tur mitra éksternal pikeun nyambung ka sistem kami pikeun nawarkeun layanan maranéhanana dina éta wadah/alat. Ku ngagunakeun alat komputasi nu nyambung ka Internet, Parobah Kauangan anu tiasa nyadiakeun layanan dina lokasi nyata manéhna atawa pamaké langsung, sarta pamaké tungtung tiasa ngakses jeung ngatur akun manehna iraha wae, dimana wae. Hal ieu ngamungkinkeun U.CASH nawarkeun layanan kauangan tradisional kayaning gajian, injeuman jeung mayar tagihan, ogé ngaktipkeun layanan anyar anu bisa ditawarkeun.
 
@@ -245,10 +245,10 @@ Kusabab isu unik anu timbul tina usaha ngonci nilai tina hiji dompét dijital pi
 
 **Konci nu dumasar na ti Kontrak-Pintar **- tumerapna pangonci nilai tina Kontrak-Pintar ibarat nyadiaan jawaban anu disederhanakeun ku téhnologi, sarta ngaliwatan conto. Kontrak-Pinter anu dumasar kana pangoncian nyaéta wangun script anu apdet otomatis ka dompet saréréa nu mulasara saldo kauangan dijital (kayaning Bitcoin) anu nilai sarua jeung mata uang nu dipake ku U.CASH (misalna USD, CAD, EUR, INR, jeung sajabana) anu dipilih ku pamaké. Panyadia Likuiditas ngajamin dana di kontrak kauangan alam nyata kalawan U.CASH Inc. jeung pamaké na, U.CASH ogé ngidinan panyadia ladenan pikeun ilubiung dina ngaronjat nilai tina l mata uang dijita jangka panjang, tanpa resiko lamun ngabogaan dana dijital sorangan. Ratusan rébu akun dompet dikelola keur sababaraha jenis pasangan mata uang (nayéta ka saha wae di dunya nu dipikahayang ku pamaké), kitu ogé dina kombinasi kalayan jenis harta séjén keur ngagunakeun Pangonci Nilai (jeung ngabuka koncina) pikeun pamaké sarta Parobah Kauangan. Kontrak-Pinter nu aman ngamungkinkeun lingkungan ngajaga kasaimbangan jeung mastikeun nilai saldo U.CASH, ogé mastikeun pihak Parobah Kauangan, pamaké, panyadia likuiditas, jeung nu lianna boga akses langsung ka token mata uang dijital maranéhanana sarta cadangan harta dijital na.
 
-**Pangoncian nu di rojong ku U.CAS** - U.CASH bakal ilubiung dina prosés meuli sarta ngajual harta dijital lianna ogé nyekel saldo jeung mitra jajaring parobah kauangan keur nyadiakeun tumerapna jaminan pangoncian nilai pikeun pamaké husus. Ieu pamaké wajib dipariksa, utamana lembaga kamanusaan, pausahaan atawa lembaga badag, anu tiasa ngakses layanan ieu sanggeus prosés pamariksaan. 
+**Pangoncian nu di rojong ku U.CAS** - U.CASH bakal ilubiung dina prosés meuli sarta ngajual harta dijital lianna ogé nyekel saldo jeung mitra jajaring parobah kauangan keur nyadiakeun tumerapna jaminan pangoncian nilai pikeun pamaké husus. Ieu pamaké wajib dipariksa, utamana lembaga kamanusaan, pausahaan atawa lembaga badag, anu tiasa ngakses layanan ieu sanggeus prosés pamariksaan.
 **Pangonci nu dumasar ti Token** - U.CASH Inc. Kerjsama jeung pausahaan kalawan panyadia ladenan éksternal geus diwenangkeun kamampuhan pikeun nyimpen token dijital basis nu ngawakilan dana/kauangan. Token dijital ieu bakal dirojong maké Bonds/Pangiket, jeung / atawa saldo dina rekening nu ngajadikeun panyekel nu ditunjuk na miboga wewenang kana token na. U.CASH Inc. baris nyadiakeun likuiditas mimiti token jeung nyadiakeun hiji mata uang Fiat ka mitra panyadia layanan anu salajengna bakal ngahasilkeun nilai mimiti token. U.CASH Inc. jadi calo di lalakon ieu anu mere aksés ka pamaké U.CASH nu geus dipariksa hiji token nu nu nilaina geus sesuai pikeun dipaké dina jajaring.
 
-7.10 **Ranté sertipikasi (nota Blokchain)** 
+7.10 **Ranté sertipikasi (nota Blokchain)**
 
 Ranté sertipikasi mangrupakeun pungsi anyar nu dasarna nyaéta "nganotakeun" dokumen atawa pesen dina Blockchain Bitcoin sarta simpen éta dokumen (atawa pesen) pikeun dipake kapayuna mun diperlukeun. Ayeuna dokumén pamaké bisa disimpen ku sorangan, atanapi dina server kami lamun pamaké salempang ngeunaan kaleungitan aslina. Kami rencanana rék nyebarkeun panyimpenan ieu berkas maké MaidSafe Vérsi, Storj, atawa aplikasi kami sorangan, gumantung kana kauntungan jeung / atawa masalah anu geus ditampi. Salian ti "Ranté Sertipikasi" dokumén pamaké, aksés ka jajaing parobah legal kami ogé ngamungkinkeun pamaké pikeun nyertipikasi dokumén maranéhanana sacara tradisional ku pangacara anu miboga sertipikat atawa propesi hukum séjén di wewengkon.
 
@@ -256,7 +256,7 @@ Ranté sertipikasi mangrupakeun pungsi anyar nu dasarna nyaéta "nganotakeun" do
 
 Kartu debit visa U.CASH bakal sadia di sabaraha nagara hungkul lamun kami parantos siap ngajalankeun sistim kalawan pamakéan anu maksimum. Kartu debit bisa dieusian saldo na sacara online maké saldo pamaké U.CASH atawa pamaké pasorangan anu kerjasama jeung Parobah Kauangan. Kauntungannana gaduh kartu debit dina sistim kawas U.CASH téh sangkan téhnologi hebeul tetep bisa dipaké sarta terminal POS berinteraksi jeung kartu nu bisa dieuisan maké saldo U.CASH. Nambahan dana ngan saukur sababaraha menit, pamaké ogé bisa sakalian mariksa saldo kartu maranéhanana iraha wae ku logging kana U.CASH. Dina unggal nagara tempat kami beroperasi, kami téh mitraan jeung lembaga panyadia layanan kauangan pikeun langsung nawarkeun jasa kartu ka pamaké jeung Parobah Kauangan kami.
 
-7.12 **Kartu Visa Virtual** 
+7.12 **Kartu Visa Virtual**
 
 U.CASH Virtual Visa Card ngamungkinkeun pamaké sarta Parobah Kauangan pikeun maké saldo U.CASH keur ngasupkeun wawakil kartu Visa dijital maranéhanana jeung maké eta keur pamayaran online sarta sacara langsung ngagunakeun Visa NFC (Near Field Communications) keur pamayaran langsung. Layanan ieu mung aya dina aplikasi bergerak U.CASH. Kamampuan ieu ngaronjatkeun pamakéan U.CASH sangkan pamaké jajaring ngakses sarupaning pilihan pembayaran dina sistim babangun nu geus aya. Kartu Visa Virtual bisa dijieun dina jutaan pangécér online tur pangécér pasorangan sareng masihan aksés bebas ka jutaan pamaké layanan kami. Wewenang pikeun nawaran Visa Virtual dipasihkeun ku mitra kayaning pangatur pamayaran jeung pedagang nu bisa gabung jeung nawiskeun jasa pikeun pamaké tapi ieu téh can sadia di sakabeh wewengkon.
 
@@ -272,13 +272,13 @@ Cash Loyalty nyaéta program poin loyalitas ti kami. Cash Loyalty disadiakeun di
 
 Hiji hal anu paling pamaké sarta converters tanyakeun ka kami téh kamampuhan pikeun balanja online maké saldo maranéhanana di U.CASH. Keur nyieun modul ieu, kami ningali ka sarupaning wadah panyadia balanja online séjén oge jenis dompét bergerak (kawas Paytm, Alipay, jeung sajabana) lamun kami geus nawarkeun pangalaman balanja terpadu. Kami nyieun pangalaman unik sorangan ngagunakeun panalungtikan sarta babangun Sistim U.CASH nu nyampak jeung nu ngagambarkeun pendekatan pasebaran kami. Unggal Parobah Kauangan bisa ngasupkeun barang maranéhanana pikeun jualeun jeung nyatakeun mun barang nu dijual online téh pikeun pribadi atau duanana. Parobah Kauangan bisa nyetél harga tur waragad pangiriman barang, sarta nyadiakeun barang pikeun pamaké séjén nu rék mésér. Sistim ieu geus kagabung kalawan sistem panilai eupan balik kami.
 
-**8. ****Mata Uang jeung Harta nu di rojong** 
+**8. ****Mata Uang jeung Harta nu di rojong**
 
 U.CASH miboga tujuan pikeun ngarojong ampir kabéh mangpaat mata uang, mata uang dijital, jeung harta nu aya. U.CASH dimaksudkeun pikeun jadi wadah/alat umum pikeun gerakan sarta pamakéan dana, ogé salaku panyimpenan sababaraha rupa harta dijital. Dina awalna, panggerak utama ékosistem bakal jadi sumber daya U.CASH, Bitcoin, Ethereum jeung mata uang utama. Tungtungna, Parobah Kauangan anu geus sadia di nagara séjén tur panggabungan nu aya salajengna anu dijieun dina ieu wadah minangka alternatip mata uang jeung harta dijital; ieu téh bakal ngarahkeun pamakéan si wadah/alat na ogé.
 
 **9.****_ _****IBO – Hadiah Pangnawaran Awal**
 
-Panyebaran token U.CASH bakal dilakukeun ku ngagunakeun modél anyar nu inovatif. Pamaké bisa meunangkeun token ku ngalakukeun pangnawaran nu diatur ku U.CASH keur ngawangun jajaring. U.CASH milih rupa-rupa pameunang hadiah (lamun bisa diterapkeun) jeung pikeun ngatur distribusi hadiah. Kami miboga rencana pikeun mindahkeun panangtuan kaputusan ka modél dimana eupan balik bisa datang tina pamaké platform jeung UCASH. Ngawangun sistim pikeun ngatur ieu kagiatan bakal jadi salah sahiji loba pangnawaran misalna. Pamodalna aya individu, pausahaan sarta organisasi séjén anu bisa ngalakukeun pangnawaran langsung jeung sanggeus na ngatur U.CASH sarta ngabéréskeun pangnawaran ieu kalayan ngagunakeun daya sorangan. 
+Panyebaran token U.CASH bakal dilakukeun ku ngagunakeun modél anyar nu inovatif. Pamaké bisa meunangkeun token ku ngalakukeun pangnawaran nu diatur ku U.CASH keur ngawangun jajaring. U.CASH milih rupa-rupa pameunang hadiah (lamun bisa diterapkeun) jeung pikeun ngatur distribusi hadiah. Kami miboga rencana pikeun mindahkeun panangtuan kaputusan ka modél dimana eupan balik bisa datang tina pamaké platform jeung UCASH. Ngawangun sistim pikeun ngatur ieu kagiatan bakal jadi salah sahiji loba pangnawaran misalna. Pamodalna aya individu, pausahaan sarta organisasi séjén anu bisa ngalakukeun pangnawaran langsung jeung sanggeus na ngatur U.CASH sarta ngabéréskeun pangnawaran ieu kalayan ngagunakeun daya sorangan.
 
 Aya ogé sebaran leutik anu dibikeun ka pendiri jeung tim peluncuran awal minangka ngahargaan sakabéh karya jeung usaha pikeun meunang misi U.CASH ieu. Sebaran ieu bakal dilakukeun dina kurun waktu tilu taun kanggo nyadiakeun insentip pikeun usaha anu nuluykeun.
 
@@ -304,7 +304,7 @@ U.CASH Inc. nyaéta hiji diantara ékosistem bisnis anu ngawangun pondasi blockc
 
 Kusabab kaperluan rupa pihak pikeun mastikeun kasuksésan jajaring U.CASH, kami geus ngembangkeun hiji sistem nu nyadiakeun insentif sarta nyorong sakabeh pihak pikeun gawé bareng pikeun kapentingan sakabeh pihak kalibet. Kami bariskeun tanggung jawab jeung ganjaran kanggo unggal jenis "pamaén" di jajaring kami anu mana babagi rahasia jeung kumaha maranéhna cocog kana visi nu leuwih gedé.
 
-11.1  **Tim U.CASH** 
+11.1  **Tim U.CASH**
 
 Tim ngadegna U.CASH geus naluktik, mekarkeun, ngalaksanekeun, ngetés jeung ngalahirkeun konsép anu geus terbukti, sarta parobah kauangan nu milu ti mimiti, mitra layanan kauangan sarta pamaké. Pendiri baris nuluykeun maén peran penting dina jajaring nu dugi ka waktos dimana tumuwuh jumlah jalma nu bisa manggul tanggung jawab, ogé langsung pakait ka pangmekaran token UCASH aslina, sarta masarakat sabudeureuna. Tim bakal terus tumuwuh tur masakeur aplikasi awal (U.CASH) nu diwangun dina téhnologi UCASH jeung kayakinan na. Éta bakal mawa pamaké ahir jeung Parobah Kauangan ogé mitra panyadia nu aya keur ngembangkeun di layanan anu teu ngagunakeun bank. Kalayan peluncuran jajaring U.CASH, sadaya anggota tim bakal diajak ka tumuwuh na tim kami nu gumantung kana sarat kamampuhan, pangaweruh jeung minat pangalaman.
 
@@ -316,7 +316,7 @@ Brian Phan | Patugas Eksekutip
 
 Borhade Arvind | Patugas Téhnologi
 
-Kyle Kemper | Patugas Stratégi 
+Kyle Kemper | Patugas Stratégi
 
 Sina Kachooie | Patugas operasi
 
@@ -382,7 +382,7 @@ Nasional Sivan Lam | Florida, Amérika Sarikat
 
 Reignier Macasaet | Daerah Ibu Kota, Papua Nugini
 
-Anh Vo | Viétnam kidul 
+Anh Vo | Viétnam kidul
 Anggota tambahan lain bakal diasupkeun, kaasup donator, anggota tim, jeung mitra.
 
 11.2 **Mitra Panyadia Layanan**
@@ -398,7 +398,7 @@ Dina peluncuran jajaring U.CASH, kami bakal nawiskeun jasa kalayan mitra panyadi
 4) **Parobah Kauangan Pasorangan** (Unggal pamaké) - Ieu téh mangrupa pasorangan anu hoyong meunangkeun panghasilan tambahan ku cara méré jasa U.CASH dasar pikeun masarakat di lingkungan manéhna atanapi online.
 5) **Parobah Kauangan Bergerak **– Ieu bakal nyadiakeun layanan ku cara datang ka lokasi pamaké. Parobah Kauangan Bergerak ogé bisa janten MSB, ritel atawa malah pasorangan anu nyadiakeun aksés U.CASH.
 
-11.4 **Pamaké ahir** 
+11.4 **Pamaké ahir**
 
 Pamaké jajaring U.CASH mimitina bakal maranéhna anu hayang gancang muka dana ka hiji wadah anu ilubiung dina ékonomi mata uang dijital. Kusabab U.CASH mangrupakeun hasil pilihan panggancangna jeung pangmurahna pikeun ménta waragad panukeuran mata uang nu dirobah jadi mata uang dijital maké tunai, bakal aya kelompok pamaké kuat anu museurkeun kana U.CASH. Alatan pamakéan aplikasi software U.CASH nambahan, pamaké baris pindah ka maké saldo UCASH maranéhna pikeun mayar tagihan, atawa ngirim jeung nampa dana ti sakuliah dunya. U.CASH asala mimitina yén loloba volumena ti pamakéan nu geus didadarkeun di luhur, tapi bakal mekar mangrupa rupa-rupa jasa kauangan tambahan anu dipaké.
 
@@ -425,4 +425,3 @@ U.CASH nyieun hiji konsorsium nu diwangun ku sababaraha lembaga layanan kauangan
 U.CASH diwangun pikeun ngahontal nyoko massa sarta pamakéan ti awalna. Dina makalah ieu kami geus nétélakeun solusi teknis tur bisnis nu nyadiakeun pamaké ahir sarta pihak séjén hiji kasempetan nu awalna mustahil, sarta rarata cara keur nyoko mata uang dijital jeung téhnologi blockchain. Ku lapisan dasar anu sacara sistimatis, téhnologi, ékonomi jeung sosial, pamaké, Parobah Kauangan, sarta lembaga lain bisa datang babarengan pikeun ngakses atawa nyadiakeun layanan dina skala global. Mékanisme unik nu diajukeun keur sebaran hadiah ti sumber daya awal, sarta modél bisnis na sorangan nyaéta mangrupa bagian tina gerakan gedé anu bakal mawa gerakan tanpa ngagunakeun bank ka dunya. Hayu urang mimitian ngajalankeun misi nyaan na.
 
 **_Eusian whitepaper terus diropéa kalawan informasi anyar_**
-

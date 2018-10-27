@@ -10,7 +10,7 @@ published: true
 
 STIAMO AVVIANDO UNA "ROADMAP" PER UNA RETE GLOBALE DI SERVIZI FINANZIARI P2P
 
-**_Sito web: _****_[http://u.cas_**h](http://u.cash)
+**_Sito web: _****_[http://u.cash](http://u.cash)
 
 **U****·****CASH: Una Rete Globale di Servizi Finanziari Peer-to-Peer**
 
@@ -156,17 +156,17 @@ Le transazioni U.CASH sono peer-to-peer tra utenti e convertitori, tra convertit
 
 #### **5.**	**Qual'è la funzione di U.CASH **
 
-U.CASH è alimentato utilizzando una combinazione di valute digitali, una garanzia multi-firma e "smart-contracts" con archiviazione dati distribuita, che permettono di accedere ad una rete compatibile a livello mondiale. La tecnologia Blockchain è fondamentale per U.CASH e ci permette di ridefinire e creare nuovi tipi di prodotti e servizi finanziari mirati sia ai consumatori, ai commercianti, ai convertitori ed ai fornitori di servizi, siano essi registrati nel mondo bancario oppure no. Con una blockchain alimentata da valute digitali ed un semplice dispositivo di calcolo, valore e dati possono essere scambiati con tariffe minime e senza alcuna autorità centralizzata. Il valore può essere spostato in modo sicuro senza fiducia preesistente o intermediari. Le valute digitali offrono pagamenti transfrontalieri a basso costo, rimesse di pagamento, pagamenti online, pagamenti da impresa a impresa e molto altro ancora. Questo permette la nascita di una microfinanza e quindi prestiti adatti ad ogni tipo di persona. I punteggi di credito possono essere assegnati, anche in aree dove milioni di persone vivono senza passaporti o altre forme di documentazione d'identità. Nuovi modelli di finanza sono in fase di costruzione e renderanno molti dei modelli esistenti obsoleti. 
+U.CASH è alimentato utilizzando una combinazione di valute digitali, una garanzia multi-firma e "smart-contracts" con archiviazione dati distribuita, che permettono di accedere ad una rete compatibile a livello mondiale. La tecnologia Blockchain è fondamentale per U.CASH e ci permette di ridefinire e creare nuovi tipi di prodotti e servizi finanziari mirati sia ai consumatori, ai commercianti, ai convertitori ed ai fornitori di servizi, siano essi registrati nel mondo bancario oppure no. Con una blockchain alimentata da valute digitali ed un semplice dispositivo di calcolo, valore e dati possono essere scambiati con tariffe minime e senza alcuna autorità centralizzata. Il valore può essere spostato in modo sicuro senza fiducia preesistente o intermediari. Le valute digitali offrono pagamenti transfrontalieri a basso costo, rimesse di pagamento, pagamenti online, pagamenti da impresa a impresa e molto altro ancora. Questo permette la nascita di una microfinanza e quindi prestiti adatti ad ogni tipo di persona. I punteggi di credito possono essere assegnati, anche in aree dove milioni di persone vivono senza passaporti o altre forme di documentazione d'identità. Nuovi modelli di finanza sono in fase di costruzione e renderanno molti dei modelli esistenti obsoleti.
 
 #### **5.1**	**Perchè una Blockchain e non una soluzione centralizzata **
 
-La decisione di utilizzare varie piattaforme Blockchain è stata inevitabile dopo anni di ricerca, di sviluppo e di test. Infatti le attuali Blockchain in produzione stanno cercando di offrire molti servizi ad un ampio pubblico di utenti e, per questo motivo, tutte soffrono di una qualche mancanza individuale. Il loro mandato di ricorrere ad un livello tecnologico basilare per la costruzione di altre applicazioni ed imprese, implica che il loro percorso di sviluppo e la loro strategia sia orientata all'attuazione del maggior numero di servizi possibile. Al contrario, abbiamo bisogno di determinate funzionalità e capacità dell’infrastruttura Blockchain che specificatamente mira ai servizi finanziari. Questi includono *"smart-contract" *specifici che emulano i processi delle banche 
+La decisione di utilizzare varie piattaforme Blockchain è stata inevitabile dopo anni di ricerca, di sviluppo e di test. Infatti le attuali Blockchain in produzione stanno cercando di offrire molti servizi ad un ampio pubblico di utenti e, per questo motivo, tutte soffrono di una qualche mancanza individuale. Il loro mandato di ricorrere ad un livello tecnologico basilare per la costruzione di altre applicazioni ed imprese, implica che il loro percorso di sviluppo e la loro strategia sia orientata all'attuazione del maggior numero di servizi possibile. Al contrario, abbiamo bisogno di determinate funzionalità e capacità dell’infrastruttura Blockchain che specificatamente mira ai servizi finanziari. Questi includono *"smart-contract" *specifici che emulano i processi delle banche
 
 tradizionali e l'ecosistema che li circonda. Crediamo che ogni blockchain abbia i propri vantaggi, ad esempio  tasse di transazione più convenienti, capacità di nicchia ed un proprio ecosistema di utenti e servizi.
 
-La piattaforma U.CASH è uno strato di base su cui costruire i futuri servizi di "*unbanking"*, la quale utilizza tutte le piattaforme Blockchain esistenti senza soluzione di continuità. La rete U.CASH sarà costruita specificatamente affinchè le aziende dei servizi economici, le entità dei servizi finanziari, i fornitori e gli utenti della piattaforma possano utilizzare qualsiasi base tecnologica senza necessariamente essere consapevoli di quale utilizzino. 
+La piattaforma U.CASH è uno strato di base su cui costruire i futuri servizi di "*unbanking"*, la quale utilizza tutte le piattaforme Blockchain esistenti senza soluzione di continuità. La rete U.CASH sarà costruita specificatamente affinchè le aziende dei servizi economici, le entità dei servizi finanziari, i fornitori e gli utenti della piattaforma possano utilizzare qualsiasi base tecnologica senza necessariamente essere consapevoli di quale utilizzino.
 
-In un settore che è veloce e in rapida evoluzione non possiamo aspettarci che sviluppatori core di blockchain di diverse piattaforme integrino le funzioni richieste. Ciò porterebbe solo a dover dipendere da qualcosa, e quindi una barriera all'evoluzione. Come tale, stiamo rilasciando il nostro personale piano di integrazione Blockchain che soddisfa in caso di utilizzo specializzato di "unbanking" del mondo mentre al contempo si costruisce sopra ogni blockchain valida. 
+In un settore che è veloce e in rapida evoluzione non possiamo aspettarci che sviluppatori core di blockchain di diverse piattaforme integrino le funzioni richieste. Ciò porterebbe solo a dover dipendere da qualcosa, e quindi una barriera all'evoluzione. Come tale, stiamo rilasciando il nostro personale piano di integrazione Blockchain che soddisfa in caso di utilizzo specializzato di "unbanking" del mondo mentre al contempo si costruisce sopra ogni blockchain valida.
 
 La tecnologia Blockchain è in grado di offrire servizi accessibili a livello globale e modelli di business non affidatari che ci permettono di costruire strutture e servizi efficienti, riducendo l'attrito nella crescita e nella manutenzione della nostra base di utenti. La crescita di U.CASH in futuro pone una seria concorrenza alle banche tradizionali e con essa, una aspettativa di resistenza e di conflitti dal sistema finanziario esistente.
 
@@ -340,7 +340,7 @@ Kyle Kemper | Direttore Marketing Strategico
 
 Sina Kachooie | Direttore Operativo
 
-Antoine De Vuyst | Sviluppatore Senior Blockchain 
+Antoine De Vuyst | Sviluppatore Senior Blockchain
 
 Dilipomi Gondhali | Sviluppatore Front-end Senior
 
@@ -352,7 +352,7 @@ Janagan Ravi | Marketing & Design
 
 Aruran Maheswaran | Sviluppo Commerciale
 
-Nikita Borhade | Sviluppo Software 
+Nikita Borhade | Sviluppo Software
 
 **_Team di consulenza_**
 
@@ -462,6 +462,3 @@ U.CASH sta creando un consorzio composto da vari enti di servizi finanziari che 
  
 
 U.CASH è costruito per conseguire l'adozione di massa e l'usabilità proprio dall'andare avanti. In questo documento abbiamo spiegato le soluzioni tecniche e aziendali che consentono agli utenti finali e ad altri soggetti opportunità impossibili in passato e che aprono la strada alla rapida adozione di valute digitali e tecnologie blockchain. Dato un livello di base sistemico, tecnologico, economico e sociale, gli utenti, i convertitori e altre entità possono riunirsi per accedere o fornire servizi su scala globale. I meccanismi unici proposti per la distribuzione del bounty del combustibile nativo e il modello di business di per sé sono tutte parti di un movimento più grande che porterà il mondo fuori dal sistema bancario. Lasciamo cominciare la vera missione.
-
-  
-

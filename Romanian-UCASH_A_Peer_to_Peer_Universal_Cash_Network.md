@@ -18,11 +18,11 @@ published: true
 
 **DE LA EGAL LA EGAL**
 
-**Website - ****[https://u.cas**h](https://u.cash)
+**Website - ****[https://u.cash](https://u.cash)
 
 **U-CASH: O retea de servicii financiare globale de la egal la egal**
 
-**_[https://u.cas_**h](https://u.cash)**_ – _****_[info@u.cas_**h](mailto:info@u.cash)
+**_[https://u.cash](https://u.cash)**_ – _****_[info@u.cash](mailto:info@u.cash)
 
 **Rezumat.** Activitățile serviciilor financiare tradiționale s-au învechit. Modelele vechi de a face afaceri sunt înlocuite de economiile de partajare de tip de la egal la egal, responsabilizîdu-i pe utilizatorii finali și pe furnizorii individuali de servicii. Inovațiile de tip blockchain („lanţ de blocuri"), inițial introduse de către Bitcoin permit tehnologiei să joace rolul entităților centralizate tradiționale, transformând procesele interne ale băncilor și ale altor intermediari financiari într-un program de calculator care este accesibil tuturor. Fidelizarea mărcii și clienților „de-o viață” se îndreaptă către autodeterminarea financiară prin intermediul instrumentelor digitale extrem de accesibile datorită tehnologiilor de tip blockchain. Utilizatorii se îndreaptă către servicii globale care le oferă un acces fără probleme la servicii, indiferent de ,,starea lor financiară" din lume, fără inaccesibilitatea şi complicaţiile instituțiilor tradiționale. Noi numim această schimbare ,,nebancarea globală" și U.CASH este catalizatorul acestui proces în virtutea modelului său de afaceri, a tehnologiilor sale și a propunerii unice de a aduce accesul la servicii financiare tuturor.
 
@@ -132,7 +132,7 @@ multipli parteneri, U.CASH a dezvoltat un nou tip de sistem de servicii financia
 
 Construim o rețea globală de servicii financiare distribuite, alimentată prin tehnologii de tip blockchain. Cu majoritatea populației globale fie ,,supra-bancată", ,,sub-bancată" sau ,,ne-bancată", U.CASH oferă oricui cu o conexiune la internet o alternativă la instituțiile financiare tradiționale centralizate, cum ar fi băncile și uniunile de credit. Noi „ne-bancăm" lumea. Utilizatorii nebancari care locuiesc oriunde în lume pot accesa U.CASH folosind reţeaua noastră de conversie a activelor digitale şi pot obţine acces rapid atât la serviciile financiare bazate pe tehnologia blockchain, cât şi la cele tradiţionale. Serviciile anterior disponibile numai în țările dezvoltate și în curs de dezvoltare cu infrastructură bancară și financiară tradițională pot fi acum accesate de oricine de oriunde cu un calculator și conexiune la internet.
 
-Noi vom permite capabilități simple cum ar fi plățile facturilor, deținerea în siguranţă a activelor digitale, remitențele globale și transferurile către utilizatori chiar și în cele mai îndepărtate locații. Convertoarele noastre permit utilizatorilor să încarce și să descarce rapid bani pe U.CASH, în şi din orice monedă locală necesară. Cu aceste capacități, un efect de rețea este generat rapid din cauza creșterii cererii de monedă digitală. Datorită naturii tehnologiei noastre distribuită şi fără permisiune, U.CASH introduce în lume un nou tip de capacitate nebancară, accesibilă la nivel global de către toți, de la egal la egal, auto-responsabilizabil și revoluționar. 
+Noi vom permite capabilități simple cum ar fi plățile facturilor, deținerea în siguranţă a activelor digitale, remitențele globale și transferurile către utilizatori chiar și în cele mai îndepărtate locații. Convertoarele noastre permit utilizatorilor să încarce și să descarce rapid bani pe U.CASH, în şi din orice monedă locală necesară. Cu aceste capacități, un efect de rețea este generat rapid din cauza creșterii cererii de monedă digitală. Datorită naturii tehnologiei noastre distribuită şi fără permisiune, U.CASH introduce în lume un nou tip de capacitate nebancară, accesibilă la nivel global de către toți, de la egal la egal, auto-responsabilizabil și revoluționar.
 
 Acest document prezintă modul în care funcționează U.CASH, care sunt obiectivele noastre și cum le vom realiza. O misiune într-atât de inovatoare și masivă în scop, încât U.CASH are nevoie de participare din partea oamenilor din întreaga lume, cu pregătiri diverse pentru a-și realiza întregul său potențial. Ca atare, noi introducem un nou model de stimulare a creșterii rețelei - Ofertele de recompense inițiale (IBO) - pe măsură ce lansăm infrastructura noastră tehnologică descentralizată. Vă prezentăm U.CASH, „nebanca" globală.
 
@@ -254,7 +254,7 @@ Furnizorii tradiționali de schimb valutar se pot conecta la platforma UCASH și
 
 **7.7. 	Reîncărcarea mobilului / reumplere / top-up**
 
-În multe țări, furnizorii de servicii de reîncărcare mobilă (sau reîncărcare, sau top-up etc.) sunt mici comercianți cu amănuntul cu locații care oferă reîncărcare instantanee pe numărul de telefon mobil al unui utilizator. Deoarece aproape toate serviciile din aceste țări sunt pre-plătite (trebuie să plătiți pentru minute înainte de a le utiliza), aceasta este o nevoie esențială (aproape ca o utilitate) pentru aceste populații. Furnizorii de servicii de reîncărcare mobilă sunt deja familiarizați cu preîncărcarea propriilor conturi angro pentru a începe chiar să ofere servicii şi U.CASH este o extensie naturală (și o actualizare completă) a sistemelor lor existente. Convertitorii noștri pot câștiga 2,5-3,5% pentru toate tranzacțiile de reîncărcare mobilă pe care le oferă în persoană și o fac pe o nouă platformă intuitivă. Convertorii trebuie să dețină un sold U.CASH pentru a oferi acest serviciu si sa urmeze reglementarile AML/KYC. 
+În multe țări, furnizorii de servicii de reîncărcare mobilă (sau reîncărcare, sau top-up etc.) sunt mici comercianți cu amănuntul cu locații care oferă reîncărcare instantanee pe numărul de telefon mobil al unui utilizator. Deoarece aproape toate serviciile din aceste țări sunt pre-plătite (trebuie să plătiți pentru minute înainte de a le utiliza), aceasta este o nevoie esențială (aproape ca o utilitate) pentru aceste populații. Furnizorii de servicii de reîncărcare mobilă sunt deja familiarizați cu preîncărcarea propriilor conturi angro pentru a începe chiar să ofere servicii şi U.CASH este o extensie naturală (și o actualizare completă) a sistemelor lor existente. Convertitorii noștri pot câștiga 2,5-3,5% pentru toate tranzacțiile de reîncărcare mobilă pe care le oferă în persoană și o fac pe o nouă platformă intuitivă. Convertorii trebuie să dețină un sold U.CASH pentru a oferi acest serviciu si sa urmeze reglementarile AML/KYC.
 
 **7.8. 	Sustineri**
 
@@ -272,7 +272,7 @@ Datorită problemelor unice ivite din încercarea de a bloca valoarea într-un p
 
 **7.10. 	Certificarea (notarială a) Blockchain**
 
- 
+
 
 Chain Certify (Certificarea Chain) este o funcție nouă, de marcă, care, în esență, certifică documentele sau mesajele Dumneavoastră pe Blockchain-ul Bitcoin și salvează aceste documente (sau mesaje) pentru recuperarea ulterioară, dacă este necesară. În prezent, documentele dumneavoastră pot fi stocate de dumneavoastră sau pe serverele noastre dacă utilizatorul este îngrijorat de pierderea originalului. Noi planificăm să descentralizăm stocarea acestor fișiere folosind fie o versiune a MaidSafe, Storj, fie propria noastră implementare, în funcție de beneficiile și / sau problemele pe care le primim. În partea de sus a documentului Dumneavoastră, "Certificarea Chain", accesul la rețeaua noastră de convertori legali permite, de asemenea, utilizatorilor să-și certifice notarial documentele lor, în mod tradițional, de către un avocat acreditat sau alt profesionist legal din zona locală a utilizatorului.
 
@@ -384,7 +384,7 @@ Marlon Neil | Activităţi de servicii financiare & Vânzări cu amănuntul
 
 **_Ambasadori_**
 
-Mark Sinclair | Convertori Individuali 
+Mark Sinclair | Convertori Individuali
 
 Kiran Vaidya | Colectivităţi
 
@@ -432,4 +432,3 @@ U.CASH creează un consorțiu alcătuit din diverse entități de servicii finan
 13. ** Concluzia**
 
 U.CASH este construită pentru a obține adoptarea și utilizarea masivă chiar de la început. În acest document am explicat soluțiile tehnice și de afaceri care oferă utilizatorilor finali și altor părți oportunități anterior imposibile și „pavează drumul" pentru adoptarea rapidă a monedelor digitale și a tehnologiilor de tip blockchain. Oferindu-le un nivel fundamental sistematic, tehnologic, economic și social, utilizatorii, convertorii și alte entități se pot uni pentru a accesa sau furniza servicii la o scară globală. Mecanismele unice propuse pentru distribuția recompenselor de combustibil nativ, ca şi funcționalitatea "fiscală" pe-lanț și modelul de afaceri în sine reprezintă toate, componentele unei mișcări mai largi, care va aduce „nebancarea”, lumii. Să înceapă adevărata misiune !
-
