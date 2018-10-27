@@ -476,7 +476,8 @@ Daniel Houseley | Finanzas y Operaciones
 
 Shyaam Sundhar | Seguridad y Tecnología
 
-Amber D. Scott | Cumplimiento y RegulacionesMarlon Neil | Negocio de Servicios Monetarios y Minoristas
+Amber D. Scott | Cumplimiento y Regulaciones
+Marlon Neil | Negocio de Servicios Monetarios y Minoristas
 
 Chami Akmeemana | Tecnología Financiera y Cadenas de Bloque
 
