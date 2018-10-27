@@ -2,7 +2,7 @@
 title: Indonesian - U·CASH: A Peer-to-Peer Universal Cash Network.docx
 layout: whitepaper
 author: ucash community
-permalink: /indonesian---u·cash:-a-peer-to-peer-universal-cash-network.docx/
+permalink: /indonesian--u·cash:-a-peer-to-peer-universal-cash-network.docx/
 source-id: 16w3ehjQFWng8Bw_5EPXG5A8jHGC4Tw_C7D-GqNf6aTE
 published: true
 ---
