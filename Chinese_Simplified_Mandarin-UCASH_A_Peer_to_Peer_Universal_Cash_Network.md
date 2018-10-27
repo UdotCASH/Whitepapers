@@ -6,13 +6,16 @@ permalink: /chinese-simplified-(mandarin)--u·cash:-a-peer-to-peer-universal-cas
 source-id: 1SrJxWlGq__V_6uOniZNYikWL6eFN3EaTRpAjBAsllSw
 published: true
 ---
-有关裕.金（U. CASH）的全球对等
+有关裕.金
+（U. CASH）的
+全球对等
 
 金融服务网络计划
 
  
 
-**_网站-_****_http://u.cash_**
+**_网站-_****_http://u.cash
+_**
 
 **裕****•****金: 全球对等金融服务网**
 
@@ -446,7 +449,8 @@ published: true
 
 保安及科技 | Shyaam Sundhar
 
-遵法及守则| Amber D. Scott  MSB 及 零售 | Marlon Neil
+遵法及守则| Amber D. Scott 
+ MSB 及 零售 | Marlon Neil
 
 财经科技及区块链 | Chami Akmeemana
 
