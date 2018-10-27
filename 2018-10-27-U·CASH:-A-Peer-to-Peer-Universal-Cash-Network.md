@@ -22,9 +22,9 @@ INTRODUCING THE UCASH PLAN FOR GLOBAL P2P FINANCIAL SERVICES
 
  
 
-**_Website - _****_http://u.cash_**
+**Website - ****http://u.cash**
 
-**U****·****CASH: A Peer-to-Peer Global Financial Services Network**
+**U**·**CASH: A Peer-to-Peer Global Financial Services Network**
 
 *[http://u.cash](http://www.u.cash/)* - **info@u.cash*
 
