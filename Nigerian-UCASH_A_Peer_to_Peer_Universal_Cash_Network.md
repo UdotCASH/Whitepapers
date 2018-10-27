@@ -6,17 +6,9 @@ permalink: /nigerian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1Mfix_Mab0ulnQJwIBn2HEEjDNTnwCst4WXyyh4VgvrU
 published: true
 ---
-Nkọwa atụmatụ
+**Nkọwa atụmatụ U.CASH maka ihe gbasara akụ n'ụba nke ndi ọgbọ na mba ụwa**
 
- U.CASH maka ihe
-
- gbasara akụ n'ụba
-
-nke ndi ọgbọ na mba
-
-ụwa
-
-	webusayitị - [https://u.cash](https://u.cash)
+webusayitị - [https://u.cash](https://u.cash)
 
 **U·CASH: ọrụ akụ n'ụba nke ndi ọgbọ na mba ụwa**
 

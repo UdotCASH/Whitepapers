@@ -6,19 +6,9 @@ permalink: /romanian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 16KbSNNYQrysO8bQpwVkCoxfdz4tDYUVxkGQ2NqiMKYY
 published: true
 ---
-**UCASH**
+**UCASH PREZENTAREA UNEI FOI DE PARCURS PENTRU SERVICII FINANCIARE GLOBALE DE LA EGAL LA EGAL**
 
-**PREZENTAREA**
-
-**UNEI FOI DE PARCURS**
-
-**PENTRU SERVICII**
-
-**FINANCIARE GLOBALE**
-
-**DE LA EGAL LA EGAL**
-
-**Website - [https://u.cash](https://u.cash)
+Website - [https://u.cash](https://u.cash)
 
 **U.CASH: O retea de servicii financiare globale de la egal la egal**
 

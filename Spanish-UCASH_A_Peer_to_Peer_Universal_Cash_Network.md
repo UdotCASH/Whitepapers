@@ -10,7 +10,7 @@ PRESENTANDO EL PLAN DE U.CASH PARA SERVICIOS FINANCIEROS GLOBALES P2P
 
 **Sitio web - _https://u.cash_**
 
-**U·CASH: Una red global de servicios financieros entre iguales **
+**U·CASH: Una red global de servicios financieros entre iguales**
 
 [https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
