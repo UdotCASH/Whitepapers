@@ -6,15 +6,17 @@ permalink: /nigerian-ucash_a_peer_to_peer_universal_cash_network/
 source-id: 1Mfix_Mab0ulnQJwIBn2HEEjDNTnwCst4WXyyh4VgvrU
 published: true
 ---
-**Nkọwa atụmatụ U.CASH maka ihe gbasara akụ n'ụba nke ndi ọgbọ na mba ụwa**
+Nkọwa atụmatụ U.CASH maka ihe gbasara akụ n'ụba nke ndi ọgbọ na mba ụwa
 
-webusayitị - [https://u.cash](https://u.cash)
+webusayitị - https://u.cash
 
-**U·CASH: ọrụ akụ n'ụba nke ndi ọgbọ na mba ụwa**
+**U.CASH: ọrụ akụ n'ụba nke ndi ọgbọ na mba ụwa**
 
 [https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
-**Nchịkọta:** uzọ ochie nke ụlọ akụ ego ji arụ ọrụ aghọwala ihe na abaghị n'ihe. A na-eji ụdị ndị na-eme ka ndị ọgbọ na-azụ ahịa na-agbanwe oge ochie eji azụ ahịa, na-enye ndị ọrụ ikpeazụ na ndị na-ahụ maka ọrụ ike. Mgbanwe site na Blockcheni, nke mbụ Bitcoin wetara, na-ekwe ka nkà na ụzụ na-arụ ọrụ nke ụlọ ọrụ ọdịbendị omenala, na-agbanwe usoro nhazi nke ụlọ akụ na ndị ọzọ na-akpata ego n'ime koodu softuwee nke mmadu nile nwere ike ịnweta. Iguzosi ike nke ejiri mara na ndị ahịa na-abanye na mgbebi uzo aku n’uba nke onwe site na ngwá ọrụ dijitalụ dị ukwuu site n'ikike nke nkà na ụzụ blockcheni. Ndị ọrụ na-atụgharịrị ọrụ nke ụwa na-enye ha ohere ịnweta ọrụ n'enweghị ike ịbanye na ọrụ n'agbanyeghị ọnọdụ 'ego' ha na ụwa, n'enweghị nsogbu na ọdịda nke ụlị ọrụ ego omenala. Anyị na-akpọ uka a ịgbanwe 'uzoro ọrụ ụlọ ego ụwa. U.CASH bụ ihe na-eme ka usoro a nwee isi site na ụdị ahịa ya, nkwado nkà na ụzụ na echiche pụrụ iche iji mee ka ọrụ ego nweta ohere niile.
+**Nchịkọta**
+
+Uzọ ochie nke ụlọ akụ ego ji arụ ọrụ aghọwala ihe na abaghị n'ihe. A na-eji ụdị ndị na-eme ka ndị ọgbọ na-azụ ahịa na-agbanwe oge ochie eji azụ ahịa, na-enye ndị ọrụ ikpeazụ na ndị na-ahụ maka ọrụ ike. Mgbanwe site na Blockcheni, nke mbụ Bitcoin wetara, na-ekwe ka nkà na ụzụ na-arụ ọrụ nke ụlọ ọrụ ọdịbendị omenala, na-agbanwe usoro nhazi nke ụlọ akụ na ndị ọzọ na-akpata ego n'ime koodu softuwee nke mmadu nile nwere ike ịnweta. Iguzosi ike nke ejiri mara na ndị ahịa na-abanye na mgbebi uzo aku n’uba nke onwe site na ngwá ọrụ dijitalụ dị ukwuu site n'ikike nke nkà na ụzụ blockcheni. Ndị ọrụ na-atụgharịrị ọrụ nke ụwa na-enye ha ohere ịnweta ọrụ n'enweghị ike ịbanye na ọrụ n'agbanyeghị ọnọdụ 'ego' ha na ụwa, n'enweghị nsogbu na ọdịda nke ụlị ọrụ ego omenala. Anyị na-akpọ uka a ịgbanwe 'uzoro ọrụ ụlọ ego ụwa. U.CASH bụ ihe na-eme ka usoro a nwee isi site na ụdị ahịa ya, nkwado nkà na ụzụ na echiche pụrụ iche iji mee ka ọrụ ego nweta ohere niile.
 
 U.CASH bụ ngọngọ ego nkwụnye ego na ngwongwo netwọk nke ọnụọgụ dị iche iche nke e ji rụọ ọrụ na kreptocọrensi maka ịkwụ ụgwọ, ọrụ pụrụ iche na ọrụ ndị ọzọ. Ndị na-ere ahịa anyị na-ere ahịa bụ alaka anyị na igwe ego anyi. Ndị na-atụgharị ahịa sitere na azum ahia di elu nke nkà na ụzụ ruo na ndi ọrụ ntughari nọrọ onwe ha. Ndị na-agbanwegharị ego na-anabata nhọrọ ego dị iche iche nke dịpụrụ adịpụ (dịka nkwụnye ego, nnyefe n'ịntanetị, netwọk nnyefe na ụdị ịkwụ ụgwọ ndị ọzọ) na-eme ka ikike nke ndị ọrụ nwee ike ịnweta netwọk n'enweghị onye na-echekwa ahịa dị nso. Ndị anyị na ha na-akpakọrịta na- arụ ọrụ dika ndi nnochita anya n'etiti anyi na ndi ahia anyi nke na-eme ka ndị ọrụ nwee ike ịnweta ọrụ kpọmkwem na-agbanyeghi gi ebe ha nọ. Ndị a na-agụnye ịnweta ụgwọ ịkwụ ụgwọ obodo, ndị na-ahụ maka ekwentị mkpanaaka, netwọk nnyefe, njikwa ego, kaadị akwụ ụgwọ na ọtụtụ ndị ọzọ. Ndị ahịa anyị bụ ụlọ ọrụ (ma ọ bụ ndị mmadụ n'otu n'otu) na-anabata U.CASH (ma ọ bụ ụdị ọ bụla ọzọ nke ego dijitalụ) dịka ịkwụ ụgwọ maka ọrụ ha ma ọ bụ ngwaahịa ha. Ndị ọrụ anyị bụ onye ọ bụla nọ n'ụwa na-achọ ịchịkwa ego ha, akụ dijitalụ, data na ịnweta ọrụ dị iche iche na usoro ego n'agbanyeghị ebe ha nọ. Arụ ọrụ bụ onye ọ bụla na-ahụkarị n'etiti ndị ọrụ niile, ndị ntụgharị, ndị ahịa na ndị ọrụ na-eweta ọrụ, na-enye ohere maka ngwa ngwa na ntụkwasị obi dị elu mgbe ejiri ha mee ihe na nzaghachi nyochaa anyị. Ihe nkwekọrịta smart-contracts enyere site na nkà na ụzụ blockcheni na-achịkwa azụmahịa nile na netwọk ahụ ma na-enye ohere ịnweta ụdị ọrụ ndị a na-agaghị ekwe omume dịka blockcheni dabeere na ịkọwapụta na njirisi ike.
 

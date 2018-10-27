@@ -8,9 +8,9 @@ published: true
 ---
 有關裕.金 (U. CASH) 的 全球對等 金融服務網絡計劃
 
-**網站 - _https://u.cash_**
+網站 - https://u.cash
 
-裕.金: 全球對等金融服務網絡
+**裕.金: 全球對等金融服務網絡**
 
 [https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 

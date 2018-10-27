@@ -6,21 +6,15 @@ permalink: /chinese_simplified_mandarin-ucash_a_peer_to_peer_universal_cash_netw
 source-id: 1SrJxWlGq__V_6uOniZNYikWL6eFN3EaTRpAjBAsllSw
 published: true
 ---
-有关裕.金
-（U. CASH）的
-全球对等
+有关裕.金（U. CASH）的 全球对等 金融服务网络计划
 
-金融服务网络计划
-
-
-
-网站-https://u.cash
+网站 - https://u.cash
 
 **裕金: 全球对等金融服务网**
 
 [https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
-**简介**.
+**简介**
 
 传统的银行服务模式己过时。 旧的商业模式被对等的共用经济体所取代，使得终极使用者及个人服务提供者有更大活动权。[由比特币](https://bitcoin.org/bitcoin.pdf) 引入的创新区块链(Blockchain)允许以科技去取代傅统中央集权体糸，将银行和其他金融仲介的内部作业流程全给改写，改为由电脑软体代码取代，而且公众也能参与。 区块链科技的高可用性令很多金融服务的长期忠实客户也转投自决式理财。 客户续渐转向那些能提供全面性，无缝的全球性理财服务，而不论其在世界各地的"财政状况"如何，也不用面对麻烦而又高不可攀的传统机构。  我们称之为 "全球摆脱银行现象" (global unbanking) 。而裕. 金的商业模式、技术层面和独特见解令其成为全球摆脱银行现象的催化剂，更使其金融服务能够进入普罗大众的市场。
 

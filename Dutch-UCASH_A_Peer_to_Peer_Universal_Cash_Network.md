@@ -8,13 +8,13 @@ published: true
 ---
 Introductie van UCASH: wereldwijde financiële diensten in peer-to-peer netwerken
 
-**Website - _https://u.cash_**
+Website - https://u.cash
 
 **U.CASH: wereldwijde financiële diensten in peer-to-peer netwerken**
 
 [https://u.cash](https://www.u.cash/) - [info@u.cash](mailto:info@u.cash)
 
-**Abstract**.
+**Abstract**
 
 Conventioneel bankieren raakt verouderd. Historische bedrijfsmodellen worden vervangen door gedeelde peer-to-peer modellen waarbij de macht ligt bij de gebruiker en de op zichzelf staande serviceprovider. Blockchaininnovaties, oorspronkelijk geïntroduceerd door Bitcoin, gebruiken een technologie die de rol van traditionele gecentraliseerde instanties overneemt en interne processen van banken en andere financiële tussenpersonen omzet in softwarecode die voor iedereen toegankelijk is. 'Klanten voor het leven krijgen financiële zelfstandigheid door gemakkelijk toegankelijke digitale tools met dank aan Blockchaintechnologie. Gebruikers zullen zich gaan richten op wereldwijde dienstverleners zodat zij, ongeacht hun financiële status, kunnen deelnemen in een wereld zonder de complexiteit en ontoegankelijkheid van traditionele instellingen. We noemen deze massale verandering wereldwijde 'ontbanking', en U.CASH is de katalysator van dit proces met zijn bedrijfsmodel, technologische kennis en de unieke mogelijkheid om iedereen toegang te geven tot financiële diensten.
 
